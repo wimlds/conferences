@@ -1,4 +1,4 @@
-# PyGotham 2017
+# [PyGotham 2017](https://2017.pygotham.org/)
 ## October 6-7, NYC
 
 ### Scholarships
