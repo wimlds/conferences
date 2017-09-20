@@ -1,0 +1,24 @@
+# [Dataiku Conference](https://pages.dataiku.com/egg2017-next-generation-data-science-analytics) (NYC)
+
+## Event Details
+November 30, 2017 (Thurs)  
+230 5th Ave, 20th Floor, New York, NY  
+9:00am- 6:30pm    
+
+## CFP 
+**CFP ends Sep 30, 2017**
+
+## About Dataiku Conference
+Dataiku is bringing data enthusiasts together to foster the exchange of ideas and the growth of the data community. This single day event will host technical workshops and in-depth presentation on real-life big data use cases. The call for speakers is quite open, some interests include:
+- Insights: 25-minute presentation (inspirational or visionary in nature) on the future of big data and the data science ecosystem.
+- Practicals: 35-minute presentation on data science best practices within a particular field or industry, or practical applications for how different big data technologies and methodologies can work together.
+- Workshops: 45- to 75-minute hands-on presentation where participants will interact with a case study, demo, or exercise to develop new (or hone existing) skills.
+
+All types of data professionals, scientists, engineers, analysts, and students are welcome to submit their proposals! 
+
+The deadline to apply is **September 30th, 2017.**
+
+### Discount
+$40 discount: https://www.eventbrite.com/e/egg2017-tickets-37106257816?discount=WiMLNYC 
+
+
