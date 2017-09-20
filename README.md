@@ -1,2 +1,2 @@
-# conferences
-List of Conferences
+# Conferences
+
