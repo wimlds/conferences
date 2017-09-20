@@ -9,7 +9,7 @@ https://goo.gl/forms/5K8eFuuiaF2s0dHn2
 
 ### Registration
 
-Register for a 20% discount here:
+Register for a 20% discount here:  
 https://pygotham2017.eventbrite.com/?discount=wimlds-20
 
 
