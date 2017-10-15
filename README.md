@@ -1,6 +1,8 @@
 # Conferences
 
 ## 2017, NYC
+* [Women in Data - screening](http://www.widsconference.org/), Jan 3
+* [Northeast Scala Symposium](http://www.nescala.org/), Mar 23-25
 * [MLConf](https://mlconf.com/mlconf-2017-new-york-city/), Mar 24
 * [NY R Conf](http://www.rstats.nyc/), Apr 21-22
 * [O'Reilly AI](https://conferences.oreilly.com/artificial-intelligence/ai-ny-2017), Jun 27-29
