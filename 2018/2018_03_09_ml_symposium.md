@@ -1,4 +1,6 @@
 # [12th Annual Machine Learning Symposium](https://www.nyas.org/events/2018/12th-annual-machine-learning-symposium/) 
+
+## Event Details
 Friday, March 9, 2018   
 The New York Academy of Sciences, 7 World Trade Center, 250 Greenwich St Fl 40, New York, USA  
 
