@@ -1,7 +1,7 @@
 # Conferences
 
 ## 2018, NYC
-
+* [12th Annual Machine Learning Symposium](2018/2018_03_09_ml_symposium.md), Mar 9
 * [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-ny), Feb 25-28
 
 
