@@ -2,7 +2,7 @@
 
 ## 2018
 All conferences are in NYC, unless highlighted otherwise.  
-* [PyCon 2018](2018/2018_05_09_pycon.md), May 9-17 **Cleveland, Ohio**
+* [PyCon 2018](2018/2018_05_09_pycon_ohio.md), May 9-17 **Cleveland, Ohio**
 * [MLConf NYC](2018/2018_03_23_mlconf_nyc.md), Mar 23
 * [12th Annual Machine Learning Symposium](2018/2018_03_09_ml_symposium.md), Mar 9
 * [Women in Data Science (WiDS) Conference](http://www.widsconference.org/about1.html) (international broadcast from **Stanford U**), Mar 5 
