@@ -1,13 +1,15 @@
 # Conferences
 
-## 2018, NYC
+## 2018
+All conferences are in NYC, unless highlighted otherwise.  
+* [PyCon 2018](2018/2018_05_09_pycon.md), May 9-17 **Cleveland, Ohio**
 * [MLConf NYC](2018/2018_03_23_mlconf_nyc.md), Mar 23
 * [12th Annual Machine Learning Symposium](2018/2018_03_09_ml_symposium.md), Mar 9
-* [Women in Data Science (WiDS) Conference](http://www.widsconference.org/about1.html) (international broadcast from Stanford), Mar 5 
+* [Women in Data Science (WiDS) Conference](http://www.widsconference.org/about1.html) (international broadcast from **Stanford U**), Mar 5 
 * [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-ny), Feb 25-28
 
 
-## 2017, NYC
+## 2017 NYC
 
 * [Dataiku Conference](2017/2017_11_30_dataiku.md), Nov 30
 * [DISC Unconference](2017/2017_11_29_disc_unconference.md), Nov 29-30
