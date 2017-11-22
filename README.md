@@ -1,7 +1,7 @@
 # List of Conferences
 topics:  data science, machine learning, python, Rstats, technology   
 
-All conferences are in NYC, unless highlighted otherwise.  
+All conferences are in **NYC**, unless highlighted otherwise.  
 
 ## 2018   
 * [NIPS 2018](https://nips.cc/Conferences/2018), Dec 3-8, **Montreal, Canada**
