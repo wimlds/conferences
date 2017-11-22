@@ -13,11 +13,9 @@ All conferences are in NYC, unless highlighted otherwise.
 
 
 ## 2017 NYC
-
 * [Dataiku Conference](2017/2017_11_30_dataiku.md), Nov 30
 * [DISC Unconference](2017/2017_11_29_disc_unconference.md), Nov 29-30
 * [PyData](2017/2017_11_27_pydata_nyc.md), Nov 27-28
-
 * [PLOTCON](2017/2017_11_18_plotcon.md), Nov 18-19
 * [GraphConnect](2017/2017_10_24_graph_connect.md), Oct 24
 * [PyGotham](2017/2017_10_06_pygotham.md), Oct 6-7
