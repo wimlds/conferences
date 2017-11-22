@@ -16,6 +16,7 @@ All conferences are in NYC, unless highlighted otherwise.
 
 ## 2017 NYC
 * [NIPS 2017](https://nips.cc), Dec 4-9, **Long Beach, CA**
+* [H2O World](http://h2oworld.h2o.ai), Dec 4-5, **Mountainview, CA**
 * [Dataiku Conference](2017/2017_11_30_dataiku.md), Nov 30
 * [DISC Unconference](2017/2017_11_29_disc_unconference.md), Nov 29-30
 * [PyData](2017/2017_11_27_pydata_nyc.md), Nov 27-28
