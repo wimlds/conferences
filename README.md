@@ -15,7 +15,7 @@ All conferences are in NYC, unless highlighted otherwise.
 * [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-ny), Feb 25-28
 
 
-## 2017 NYC
+## 2017
 * [NIPS 2017](https://nips.cc), Dec 4-9, **Long Beach, CA**
 * [H2O World](http://h2oworld.h2o.ai), Dec 4-5, **Mountainview, CA**
 * [Dataiku Conference](2017/2017_11_30_dataiku.md), Nov 30
