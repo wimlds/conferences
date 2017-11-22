@@ -5,6 +5,7 @@ All conferences are in NYC, unless highlighted otherwise.
 
 ## 2018   
 * [NIPS 2018](https://nips.cc/Conferences/2018), Dec 3-8, **Montreal, Canada**
+* [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/), Sep 26-27, **Houston, TX**
 * [ICML 2018](https://2017.icml.cc/Conferences/2018), Jul 10-15, **Stockholm, Sweden**
 * [PyCon 2018](2018/2018_05_09_pycon_ohio.md), May 9-17 **Cleveland, Ohio**
 * [MLConf NYC](2018/2018_03_23_mlconf_nyc.md), Mar 23
