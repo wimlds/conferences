@@ -3,6 +3,8 @@ topics:  data science, machine learning, python, Rstats, technology
 
 All conferences are in **NYC**, unless highlighted otherwise.  
 
+[KDD List of Intl Conferences](https://www.kdnuggets.com/meetings/)
+
 ## 2018   
 * [NIPS 2018](https://nips.cc/Conferences/2018), Dec 3-8, **Montreal, Canada**
 * [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/), Sep 26-27, **Houston, TX**
