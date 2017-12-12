@@ -8,7 +8,7 @@ All conferences are in **NYC**, unless highlighted otherwise.
 ## 2018   
 * [NIPS 2018](https://nips.cc/Conferences/2018), Dec 3-8, **Montreal, Canada**
 * [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/), Sep 26-27, **Houston, TX**
-* [OSCON 2018](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615?cmp=mp-mh-prog-confpro-info-osor18_11690_1160_pc), Jul 16-19, **Portland, Oregon**
+* [OSCON 2018](https://conferences.oreilly.com/oscon/oscon-or), Jul 16-19, **Portland, Oregon**
 * [ICML 2018](https://2017.icml.cc/Conferences/2018), Jul 10-15, **Stockholm, Sweden**
 * [Scala NYC](http://na.scaladays.org/), Jun 19-21 
 * [PyCon 2018](2018/2018_05_09_pycon_ohio.md), May 9-17 **Cleveland, Ohio**
