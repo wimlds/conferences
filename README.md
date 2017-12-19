@@ -3,7 +3,8 @@ topics:  data science, machine learning, python, Rstats, technology
 
 All conferences are in **NYC**, unless highlighted otherwise.  
 
-[KDD List of International Conferences](https://www.kdnuggets.com/meetings/)
+* [KDD List of International Conferences](https://www.kdnuggets.com/meetings/)
+* https://techburst.io/10-must-attend-data-science-ml-and-ai-conferences-in-2018-6436e1fc9eeb
 
 ## 2018   
 * [NIPS 2018](https://nips.cc/Conferences/2018), Dec 3-8, **Montreal, Canada**
