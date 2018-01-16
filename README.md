@@ -15,6 +15,7 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [Scala NYC](http://na.scaladays.org/), Jun 19-21 
 * [DockerCon18](https://2018.dockercon.com/), Jun 12-15 **San Francisco, CA**
 * [PyCon 2018](2018/2018_05_09_pycon_ohio.md), May 9-17 **Cleveland, Ohio**
+* [ODSC East](https://odsc.com/boston), May 1-4, **Boston, MA**
 * [O'Reilly AI](2018/2018_04_09_ai.md), Apr 29 - May 2
 * [MLConf NYC](2018/2018_03_23_mlconf_nyc.md), Mar 23
 * [SXSW](https://www.sxsw.com/news/2017/sxsw-2018-dates/), Mar 9-18, **Austin, TX**
