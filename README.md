@@ -12,6 +12,7 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [OSCON 2018](2018/2018_07_16_oscon.md), Jul 16-19, **Portland, Oregon**
 * [ICML 2018](https://2017.icml.cc/Conferences/2018), Jul 10-15, **Stockholm, Sweden**
 * [Scala NYC](http://na.scaladays.org/), Jun 19-21 
+* [DockerCon18](https://2018.dockercon.com/), Jun 12-15 **San Francisco, CA**
 * [PyCon 2018](2018/2018_05_09_pycon_ohio.md), May 9-17 **Cleveland, Ohio**
 * [O'Reilly AI](2018/2018_04_09_ai.md), Apr 29 - May 2
 * [MLConf NYC](2018/2018_03_23_mlconf_nyc.md), Mar 23
