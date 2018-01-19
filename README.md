@@ -21,6 +21,7 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [MLConf NYC](2018/2018_03_23_mlconf_nyc.md), Mar 23
 * [SXSW](https://www.sxsw.com/news/2017/sxsw-2018-dates/), Mar 9-18, **Austin, TX**
 * [12th Annual Machine Learning Symposium](2018/2018_03_09_ml_symposium.md), Mar 9
+* [Strata](2018_03_04_strata_san_jose_ca.md), Mar 5-8, **San Jose, CA**
 * [Women in Data Science (WiDS) Conference](http://www.widsconference.org/about1.html) (international broadcast from **Stanford University**), Mar 5 
 * [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-ny), Feb 25-28
 
