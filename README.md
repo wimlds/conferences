@@ -20,6 +20,7 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [PyCon 2018](2018/2018_05_09_pycon_ohio.md), May 9-17 **Cleveland, Ohio**
 * [ODSC East](https://odsc.com/boston), May 1-4, **Boston, MA**
 * [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md), Apr 29 - May 2
+* [NY R Conference](https://www.rstats.nyc/), Apr 20-21
 * [SXSW](https://www.sxsw.com/news/2017/sxsw-2018-dates/), Mar 9-18, **Austin, TX**
 * [12th Annual Machine Learning Symposium](2018/2018_03_09_ml_symposium.md), Mar 9
 * [Strata](2018_03_04_strata_san_jose_ca.md), Mar 5-8, **San Jose, CA**
