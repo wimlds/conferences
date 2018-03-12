@@ -18,7 +18,7 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [DockerCon18](https://2018.dockercon.com/), Jun 12-15 **San Francisco, CA**
 * [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america), Jun 4-6 **San Francisco, CA**
 * [PyCon 2018](2018/2018_05_09_pycon_ohio.md), May 9-17 **Cleveland, Ohio**
-* [ODSC East](https://odsc.com/boston), May 1-4, **Boston, MA**
+* [ODSC East](2018/2018_05_01_odsc_east.md), May 1-4, **Boston, MA**
 * [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md), Apr 29 - May 2
 * [NY R Conference](2018/2018_04_20_ny_r_conf.md), Apr 20-21
 * [Plotly](2018/2018_04_15_plotly_boston.md), April 14-15, **Boston, MA**
