@@ -10,7 +10,7 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [NIPS 2018](https://nips.cc/Conferences/2018), Dec 3-8, **Montreal, Canada**
 * [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/), Sep 26-27, **Houston, TX**
 * [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/), Jul 28 - Aug 2, **Vancouver, Canada**
-* [Amazon Alexa VOICE](2018/2018_07_24_amazon_alexa_voice.md) **Newark, NJ**
+* [Amazon Alexa VOICE](2018/2018_07_24_amazon_alexa_voice.md) Jul 24-26, **Newark, NJ**
 * [OSCON 2018](2018/2018_07_16_oscon.md), Jul 16-19, **Portland, Oregon**
 * [ICML 2018](https://2017.icml.cc/Conferences/2018), Jul 10-15, **Stockholm, Sweden**
 * [Scipy 2018](2018/2018_07_09.scipy.md) Jul 9-13, **Austin, Texas** 
