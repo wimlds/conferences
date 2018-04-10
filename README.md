@@ -23,7 +23,9 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md), Apr 29 - May 2
 * [NY R Conference](2018/2018_04_20_ny_r_conf.md), Apr 20-21
 * [Plotcon Boston](2018/2018_04_15_plotly_boston.md), April 14-15, **Boston, MA**
-* 
+*
+* [Scaled ML](http://scaledml.org), Mar 24, **Stanford U (CA)**
+  - [slides and videos](https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018)
 * [SXSW](https://www.sxsw.com/news/2017/sxsw-2018-dates/), Mar 9-18, **Austin, TX**
 * [12th Annual Machine Learning Symposium](2018/2018_03_09_ml_symposium.md), Mar 9
 * [Strata](2018_03_04_strata_san_jose_ca.md), Mar 5-8, **San Jose, CA**
@@ -34,6 +36,7 @@ All conferences are in **NYC**, unless highlighted otherwise.
 ## 2017
 * [NIPS 2017](https://nips.cc), Dec 4-9, **Long Beach, CA**
 * [H2O World](http://h2oworld.h2o.ai), Dec 4-5, **Mountainview, CA**
+  - [videos](https://www.youtube.com/playlist?list=PLNtMya54qvOHQs2ZmV-pPSW_etMUykE0_) and [slides](https://www.slideshare.net/0xdata/presentations)
 * [Dataiku Conference](2017/2017_11_30_dataiku.md), Nov 30
 * [DISC Unconference](2017/2017_11_29_disc_unconference.md), Nov 29-30
 * [PyData](2017/2017_11_27_pydata_nyc.md), Nov 27-28
