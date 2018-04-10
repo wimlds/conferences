@@ -24,6 +24,8 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [NY R Conference](2018/2018_04_20_ny_r_conf.md), Apr 20-21
 * [Plotcon Boston](2018/2018_04_15_plotly_boston.md), April 14-15, **Boston, MA**
 *
+* [Intersect 2018 Conference, Udacity](https://www.udacity.com/intersect), Mar 27, **Mountainview, CA**
+  - [videos](https://www.youtube.com/watch?v=iq0GQy4-0XY&list=PLAwxTw4SYaPnx-iemVLvedeuc2pUazOUj)
 * [Scaled ML](http://scaledml.org), Mar 24, **Stanford U (CA)**
   - [videos and slides](https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018)
 * [SXSW](https://www.sxsw.com/news/2017/sxsw-2018-dates/), Mar 9-18, **Austin, TX**
