@@ -25,7 +25,7 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [Plotcon Boston](2018/2018_04_15_plotly_boston.md), April 14-15, **Boston, MA**
 *
 * [Scaled ML](http://scaledml.org), Mar 24, **Stanford U (CA)**
-  - [slides and videos](https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018)
+  - [videos and slides](https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018)
 * [SXSW](https://www.sxsw.com/news/2017/sxsw-2018-dates/), Mar 9-18, **Austin, TX**
 * [12th Annual Machine Learning Symposium](2018/2018_03_09_ml_symposium.md), Mar 9
 * [Strata](2018_03_04_strata_san_jose_ca.md), Mar 5-8, **San Jose, CA**
