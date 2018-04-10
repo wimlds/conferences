@@ -27,9 +27,12 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [Scaled ML](http://scaledml.org), Mar 24, **Stanford U (CA)**
   - [videos and slides](https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018)
 * [SXSW](https://www.sxsw.com/news/2017/sxsw-2018-dates/), Mar 9-18, **Austin, TX**
-* [12th Annual Machine Learning Symposium](2018/2018_03_09_ml_symposium.md), Mar 9
+  - [YouTube](https://www.youtube.com/results?search_query=sxsw+2018)
+* [12th Annual Machine Learning Symposium, NYAS](2018/2018_03_09_ml_symposium.md), Mar 9
+  - [keynote livestreams](https://livestream.com/newyorkacademyofsciences)
 * [Strata](2018_03_04_strata_san_jose_ca.md), Mar 5-8, **San Jose, CA**
 * [Women in Data Science (WiDS) Conference](http://www.widsconference.org/about1.html) (international broadcast from **Stanford University**), Mar 5 
+  - [WiDS 2018 playlist](https://www.youtube.com/playlist?list=PLn62CdVLnT-ehGV9_cv1VX2SfZI_Suu7r&disable_polymer=true)
 * [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-ny), Feb 25-28
 
 
