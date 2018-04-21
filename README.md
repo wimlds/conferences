@@ -21,9 +21,9 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [PyCon 2018](2018/2018_05_09_pycon_ohio.md), May 9-17 **Cleveland, Ohio**
 * [ODSC East](2018/2018_05_01_odsc_east.md), May 1-4, **Boston, MA**
 * [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md), Apr 29 - May 2
+*
 * [NY R Conference](2018/2018_04_20_ny_r_conf.md), Apr 20-21
 * [Plotcon Boston](2018/2018_04_15_plotly_boston.md), April 14-15, **Boston, MA**
-*
 * [Intersect 2018 Conference, Udacity](https://www.udacity.com/intersect), Mar 27, **Mountainview, CA**
   - [videos](https://www.youtube.com/watch?v=iq0GQy4-0XY&list=PLAwxTw4SYaPnx-iemVLvedeuc2pUazOUj)
 * [Scaled ML](http://scaledml.org), Mar 24, **Stanford U (CA)**
