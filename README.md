@@ -9,6 +9,7 @@ All conferences are in **NYC**, unless highlighted otherwise.
 ## 2018   
 * [NIPS 2018](https://nips.cc/Conferences/2018), Dec 3-8, **Montreal, Canada**
 * [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/), Sep 26-27, **Houston, TX**
+* [Write Speak Code](2018/2018_08_01_wsc.md) Aug 1-4, **New York, NY **
 * [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/), Jul 28 - Aug 2, **Vancouver, Canada**
 * [Amazon Alexa VOICE](2018/2018_07_24_amazon_alexa_voice.md) Jul 24-26, **Newark, NJ**
 * [OSCON 2018](2018/2018_07_16_oscon.md), Jul 16-19, **Portland, Oregon**
@@ -21,7 +22,6 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [PyCon 2018](2018/2018_05_09_pycon_ohio.md), May 9-17 **Cleveland, Ohio**
 * [ODSC East](2018/2018_05_01_odsc_east.md), May 1-4, **Boston, MA**
 * [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md), Apr 29 - May 2
-*
 * [NY R Conference](2018/2018_04_20_ny_r_conf.md), Apr 20-21
 * [Plotcon Boston](2018/2018_04_15_plotly_boston.md), April 14-15, **Boston, MA**
 * [Intersect 2018 Conference, Udacity](https://www.udacity.com/intersect), Mar 27, **Mountainview, CA**
