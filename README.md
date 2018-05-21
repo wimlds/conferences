@@ -13,6 +13,8 @@
 | [NIPS 2018](https://nips.cc/Conferences/2018) | Dec 3-8 | Montreal, Canada |
 | [Plotcon](https://plotcon.plot.ly/tickets/) | Nov 17-18 | New York, NY |
 | [MLConf 2018](https://mlconf.com/events/mlconf-sf-2018/) | Nov 14 | San Francisco, CA |
+| [Data Science Pop-up](https://popup.dominodatalab.com/chicago/) | Nov 14 | Chicago, IL |
+| [ODSC West](https://odsc.com/california) | Oct 31 - Nov 3 | San Francisco, CA |
 | [Women in Statistics & Data Science](http://ww2.amstat.org/meetings/wsds/2018/) | Oct 18-20 | Cincinnati, OH |
 | [PyData](https://pydata.org/events.html) | Oct 17-19 | New York, NY |
 | [PyGotham 2018](2018/2018_10_05_pygotham.md) | Oct 5-6 | New York, NY |
