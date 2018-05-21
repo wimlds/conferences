@@ -41,6 +41,7 @@
 | [ODSC East](2018/2018_05_01_odsc_east.md) | May 1-4 | Boston, MA |
 | [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md) | Apr 29 - May 2 | New York, NY |
 | [Women Who Code CONNECT](https://connect2018.womenwhocode.com) | Apr 28 | San Francisco, CA |
+| [Enterprise Data World](http://edw2017.dataversity.net) | Apr 22-27 | San Diego, CA |
 | [NY R Conference](2018/2018_04_20_ny_r_conf.md) | Apr 20-21 | New York, NY |
 | [Plotcon Boston](2018/2018_04_15_plotly_boston.md) | Apr 14-15 | Boston, MA |
 | [Intersect 2018 Conference, Udacity](https://www.udacity.com/intersect) | Mar 27 | Mountainview, CA |
