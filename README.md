@@ -20,7 +20,7 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/), Sep 12-14, **New York, NY**
 * [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny), Sep 11, **New York, NY**
 * [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca), Sep 4-7, **San Francisco, CA**
-* [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny), Aug 21-24, **New York, NY**
+* [O'Reilly JupyterCon NYC](https://conferences.oreilly.com/jupyter/jup-ny), Aug 21-24, **New York, NY**
 * [AI 4 Finance](https://ai4.io/finance/), Aug 21, **New York, NY**
 * [Write Speak Code](2018/2018_08_01_wsc.md) Aug 1-4, **New York, NY**
 * [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/), Jul 28 - Aug 2, **Vancouver, Canada**
@@ -49,10 +49,10 @@ All conferences are in **NYC**, unless highlighted otherwise.
   - [YouTube](https://www.youtube.com/results?search_query=sxsw+2018)
 * [12th Annual Machine Learning Symposium, NYAS](2018/2018_03_09_ml_symposium.md), Mar 9
   - [keynote livestreams](https://livestream.com/newyorkacademyofsciences)
-* [Strata](2018_03_04_strata_san_jose_ca.md), Mar 5-8, **San Jose, CA**
+* [O'Reilly Strata San Jose](2018_03_04_strata_san_jose_ca.md), Mar 5-8, **San Jose, CA**
 * [Women in Data Science (WiDS) Conference](http://www.widsconference.org/about1.html) (international broadcast from **Stanford University**), Mar 5 
   - [WiDS 2018 playlist](https://www.youtube.com/playlist?list=PLn62CdVLnT-ehGV9_cv1VX2SfZI_Suu7r&disable_polymer=true)
-* [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-ny), Feb 25-28
+* [O'Reilly Software Architecture Conference NYC](https://conferences.oreilly.com/software-architecture/sa-ny), Feb 25-28
 
 
 
