@@ -33,12 +33,12 @@ All conferences are in **NYC**, unless highlighted otherwise.
 | [Scipy 2018](2018/2018_07_09.scipy.md) | Jul 9-13 | Austin, Texas | 
 | [Women in Robotics IV](https://sites.google.com/view/rss2018women/home) | Jun 29 | Pittsburgh, PA |
 | [QCon NYC](2018/2018_06_25_qcon.md) | Jun 25-28 | New York, NY |
-* [Scala NYC](http://na.scaladays.org/), Jun 19-21 
-* [DockerCon18](https://2018.dockercon.com/), Jun 12-15 **San Francisco, CA**
-* [H2O World NYC](2018/2018_06_07_h2o_nyc.md), Jun 6 **New York, NY**
-* [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america), Jun 4-6 **San Francisco, CA**
-* [PyCon 2018](2018/2018_05_09_pycon_ohio.md), May 9-17 **Cleveland, Ohio**
-* [ODSC East](2018/2018_05_01_odsc_east.md), May 1-4, **Boston, MA**
+| [Scala NYC](http://na.scaladays.org/) | Jun 19-21 | New York, NY | 
+| [DockerCon18](https://2018.dockercon.com/) | Jun 12-15 | San Francisco, CA |
+| [H2O World NYC](2018/2018_06_07_h2o_nyc.md) | Jun 6 | New York, NY |
+| [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america) | Jun 4-6 | San Francisco, CA |
+| [PyCon 2018](2018/2018_05_09_pycon_ohio.md) | May 9-17 | Cleveland, Ohio |
+| [ODSC East](2018/2018_05_01_odsc_east.md) | May 1-4 | Boston, MA |
 * [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md), Apr 29 - May 2
 * [Women Who Code CONNECT](https://connect2018.womenwhocode.com), Apr 28, **San Francisco, CA**
 * [NY R Conference](2018/2018_04_20_ny_r_conf.md), Apr 20-21
