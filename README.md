@@ -15,6 +15,7 @@ All conferences are in **NYC**, unless highlighted otherwise.
 * [PyData](https://pydata.org/events.html), Oct 17-19, **New York, NY**
 * [PyGotham 2018](2018/2018_10_05_pygotham.md), Oct 5-6, **New York, NY**
 * [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/), Sep 26-27, **Houston, TX**
+* [GraphConnect](https://graphconnect.com), Sep 20-21, **New York, NY**
 * [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/), Sep 12-14, **New York, NY**
 * [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny), Sep 11, **New York, NY**
 * [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca), Sep 4-7, **San Francisco, CA**
