@@ -10,7 +10,7 @@
 
 | Event    | Date  | Location | 
 |----|----|----|
-| [NIPS 2018](https://nips.cc/Conferences/2018) | Dec 3-8 | Montreal, Canada |
+| [NIPS 2018](https://nips.cc/Conferences/2018) | Dec 3-8 | **Montreal, Canada** |
 | [Plotcon](https://plotcon.plot.ly/tickets/) | Nov 17-18 | New York, NY |
 | [MLConf 2018](https://mlconf.com/events/mlconf-sf-2018/) | Nov 14 | San Francisco, CA |
 | [Data Science Pop-up](https://popup.dominodatalab.com/chicago/) | Nov 14 | Chicago, IL |
@@ -25,13 +25,13 @@
 | [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 4-7 | San Francisco, CA |
 | [O'Reilly JupyterCon NYC](https://conferences.oreilly.com/jupyter/jup-ny) | Aug 21-24 | New York, NY |
 | [AI 4 Finance](https://ai4.io/finance/) | Aug 21 | New York, NY |
-| [KDD 2018](http://www.kdd.org/kdd2018/) | Aug 19-23 | London |
+| [KDD 2018](http://www.kdd.org/kdd2018/) | Aug 19-23 | **London, England** |
 | [Write Speak Code](2018/2018_08_01_wsc.md) | Aug 1-4 | New York, NY |
 | [A Cloud Guru Serverless](https://sf.serverlessconf.io/) | Jul 29 - Aug 1 | San Francisco, CA |
-| [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/) | Jul 28 - Aug 2 | Vancouver, Canada |
+| [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/) | Jul 28 - Aug 2 | **Vancouver, Canada** |
 | [Amazon Alexa VOICE](2018/2018_07_24_amazon_alexa_voice.md) | Jul 24-26 | Newark, NJ |
 | [OSCON 2018](2018/2018_07_16_oscon.md) | Jul 16-19 | Portland, OR |
-| [ICML 2018](https://2017.icml.cc/Conferences/2018) | Jul 10-15 | Stockholm, Sweden |
+| [ICML 2018](https://2017.icml.cc/Conferences/2018) | Jul 10-15 | **Stockholm, Sweden** |
 | [Scipy 2018](2018/2018_07_09.scipy.md) | Jul 9-13 | Austin, TX | 
 | [Women in Robotics IV](https://sites.google.com/view/rss2018women/home) | Jun 29 | Pittsburgh, PA |
 | [QCon NYC](2018/2018_06_25_qcon.md) | Jun 25-28 | New York, NY |
