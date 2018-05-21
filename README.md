@@ -23,6 +23,7 @@
 | [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 4-7 | San Francisco, CA |
 | [O'Reilly JupyterCon NYC](https://conferences.oreilly.com/jupyter/jup-ny) | Aug 21-24 | New York, NY |
 | [AI 4 Finance](https://ai4.io/finance/) | Aug 21 | New York, NY |
+| [KDD 2018](http://www.kdd.org/kdd2018/) | Aug 19-23 | London |
 | [Write Speak Code](2018/2018_08_01_wsc.md) | Aug 1-4 | New York, NY |
 | [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/) | Jul 28 - Aug 2 | Vancouver, Canada |
 | [Amazon Alexa VOICE](2018/2018_07_24_amazon_alexa_voice.md) | Jul 24-26 | Newark, NJ |
@@ -50,6 +51,8 @@
 | [O'Reilly Strata San Jose](2018_03_04_strata_san_jose_ca.md) | Mar 5-8 | San Jose, CA |
 | [Women in Data Science (WiDS)](http://www.widsconference.org/about1.html) | Mar 5 | CA (Stanford Univ)  |
 | [O'Reilly Software Architecture NYC](https://conferences.oreilly.com/software-architecture/sa-ny) | Feb 25-28 | New York, NY |
+| [RStudio](https://www.rstudio.com/conference/) | Feb 1-3 | San Diego, CA |
+
 
 
 
