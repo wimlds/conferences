@@ -1,7 +1,5 @@
 # List of Conferences
-topics:  data science, machine learning, python, Rstats, technology   
-
-All conferences are in **NYC**, unless highlighted otherwise.  
+**topics:**  data science, machine learning, python, Rstats, technology   
 
 * [KDD List of International Conferences](https://www.kdnuggets.com/meetings/)
 * [10 Must Attend Data Science, ML and AI Conferences in 2018](https://techburst.io/10-must-attend-data-science-ml-and-ai-conferences-in-2018-6436e1fc9eeb)
