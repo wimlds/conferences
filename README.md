@@ -37,25 +37,21 @@ All conferences are in **NYC**, unless highlighted otherwise.
 | [DockerCon18](https://2018.dockercon.com/) | Jun 12-15 | San Francisco, CA |
 | [H2O World NYC](2018/2018_06_07_h2o_nyc.md) | Jun 6 | New York, NY |
 | [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america) | Jun 4-6 | San Francisco, CA |
+|  |  |  |
 | [PyCon 2018](2018/2018_05_09_pycon_ohio.md) | May 9-17 | Cleveland, Ohio |
 | [ODSC East](2018/2018_05_01_odsc_east.md) | May 1-4 | Boston, MA |
-* [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md), Apr 29 - May 2
-* [Women Who Code CONNECT](https://connect2018.womenwhocode.com), Apr 28, **San Francisco, CA**
-* [NY R Conference](2018/2018_04_20_ny_r_conf.md), Apr 20-21
-* [Plotcon Boston](2018/2018_04_15_plotly_boston.md), April 14-15, **Boston, MA**
-* [Intersect 2018 Conference, Udacity](https://www.udacity.com/intersect), Mar 27, **Mountainview, CA**
-  - [videos](https://www.youtube.com/watch?v=iq0GQy4-0XY&list=PLAwxTw4SYaPnx-iemVLvedeuc2pUazOUj)
-* [Scaled ML](http://scaledml.org), Mar 24, **Stanford U (CA)**
-  - [videos and slides](https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018)
-* [Women in Analytics](https://connect2018.womenwhocode.com), Mar 15, **Columbus, OH**
-* [SXSW](https://www.sxsw.com/news/2017/sxsw-2018-dates/), Mar 9-18, **Austin, TX**
-  - [YouTube](https://www.youtube.com/results?search_query=sxsw+2018)
-* [12th Annual Machine Learning Symposium, NYAS](2018/2018_03_09_ml_symposium.md), Mar 9
-  - [keynote livestreams](https://livestream.com/newyorkacademyofsciences)
-* [O'Reilly Strata San Jose](2018_03_04_strata_san_jose_ca.md), Mar 5-8, **San Jose, CA**
-* [Women in Data Science (WiDS) Conference](http://www.widsconference.org/about1.html) (international broadcast from **Stanford University**), Mar 5 
-  - [WiDS 2018 playlist](https://www.youtube.com/playlist?list=PLn62CdVLnT-ehGV9_cv1VX2SfZI_Suu7r&disable_polymer=true)
-* [O'Reilly Software Architecture Conference NYC](https://conferences.oreilly.com/software-architecture/sa-ny), Feb 25-28
+| [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md) | Apr 29 - May 2 | New York, NY |
+| [Women Who Code CONNECT](https://connect2018.womenwhocode.com) | Apr 28 | San Francisco, CA |
+| [NY R Conference](2018/2018_04_20_ny_r_conf.md) | Apr 20-21 | New York, NY |
+| [Plotcon Boston](2018/2018_04_15_plotly_boston.md) | Apr 14-15 | Boston, MA |
+| [Intersect 2018 Conference, Udacity](https://www.udacity.com/intersect) | Mar 27 | Mountainview, CA |
+| [Scaled ML](http://scaledml.org) | Mar 24 | Stanford U (CA) |
+| [Women in Analytics](https://connect2018.womenwhocode.com) | Mar 15 |  Columbus, OH |
+| [SXSW](https://www.sxsw.com/news/2017/sxsw-2018-dates/) | Mar 9-18 | Austin, TX |
+| [12th Annual Machine Learning Symposium, NYAS](2018/2018_03_09_ml_symposium.md) | Mar 9 | New York, NY |
+| [O'Reilly Strata San Jose](2018_03_04_strata_san_jose_ca.md) | Mar 5-8 | San Jose, CA |
+| [Women in Data Science (WiDS) Conference](http://www.widsconference.org/about1.html) | Mar 5 | intl broadcast from **Stanford University**  |
+| [O'Reilly Software Architecture Conference NYC](https://conferences.oreilly.com/software-architecture/sa-ny) | Feb 25-28 | New York, NY |
 
 
 
