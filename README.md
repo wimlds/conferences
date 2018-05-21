@@ -8,9 +8,12 @@ All conferences are in **NYC**, unless highlighted otherwise.
 
 ## 2018   
 * [NIPS 2018](https://nips.cc/Conferences/2018), Dec 3-8, **Montreal, Canada**
+* [MLConf 2018](https://mlconf.com/events/mlconf-sf-2018/), Nov 14, **San Francisco, CA**
 * [PyGotham 2018](2018/2018_10_05_pygotham.md), Oct 5-6, **New York, NY**
 * [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/), Sep 26-27, **Houston, TX**
 * [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/), Sep 12-14, **New York, NY**
+* [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca), Sep 4-7, **San Francisco, CA**
+* [JupyterCon](https://conferences.oreilly.com/jupyter/jup-ny), Aug 21-24, **New York, NY**
 * [Write Speak Code](2018/2018_08_01_wsc.md) Aug 1-4, **New York, NY**
 * [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/), Jul 28 - Aug 2, **Vancouver, Canada**
 * [Amazon Alexa VOICE](2018/2018_07_24_amazon_alexa_voice.md) Jul 24-26, **Newark, NJ**
