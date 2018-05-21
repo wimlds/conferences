@@ -60,10 +60,10 @@ All conferences are in **NYC**, unless highlighted otherwise.
 |----|----|----|
 | [NIPS 2018](https://nips.cc/Conferences/2018) | Dec 3-8 | **Montreal, Canada** |
 | [Plotcon](https://plotcon.plot.ly/tickets/) | Nov 17-18 | **New York, NY** |
+| [MLConf 2018](https://mlconf.com/events/mlconf-sf-2018/) | Nov 14 | **San Francisco, CA** |
+| [Women in Statistics & Data Science](http://ww2.amstat.org/meetings/wsds/2018/) | Oct 18-20 | **Cincinnati, OH** |
+| [PyData](https://pydata.org/events.html) | Oct 17-19 | **New York, NY** |
 
-* [MLConf 2018](https://mlconf.com/events/mlconf-sf-2018/), Nov 14, **San Francisco, CA**
-* [Women in Statistics & Data Science](http://ww2.amstat.org/meetings/wsds/2018/), Oct 18-20, **Cincinnati, OH**
-* [PyData](https://pydata.org/events.html), Oct 17-19, **New York, NY**
 * [PyGotham 2018](2018/2018_10_05_pygotham.md), Oct 5-6, **New York, NY**
 * [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/), Sep 26-27, **Houston, TX**
 * [GraphConnect](https://graphconnect.com), Sep 20-21, **New York, NY**
