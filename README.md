@@ -39,6 +39,7 @@
 | [DockerCon18](https://2018.dockercon.com/) | Jun 12-15 | San Francisco, CA |
 | [H2O World NYC](2018/2018_06_07_h2o_nyc.md) | Jun 6 | New York, NY |
 | [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america) | Jun 4-6 | San Francisco, CA |
+| [Predictive Analytics World](https://www.predictiveanalyticsworld.com/)  Jun 3-7 | Las Vegas, NV |
 |  |  |  |
 | [PyCon 2018](2018/2018_05_09_pycon_ohio.md) | May 9-17 | Cleveland, Ohio |
 | [ODSC East](2018/2018_05_01_odsc_east.md) | May 1-4 | Boston, MA |
