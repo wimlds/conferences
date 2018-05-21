@@ -58,23 +58,22 @@ All conferences are in **NYC**, unless highlighted otherwise.
 
 | Event    | Date  | Location | 
 |----|----|----|
-| [NIPS 2018](https://nips.cc/Conferences/2018) | Dec 3-8 | **Montreal, Canada** |
-| [Plotcon](https://plotcon.plot.ly/tickets/) | Nov 17-18 | **New York, NY** |
-| [MLConf 2018](https://mlconf.com/events/mlconf-sf-2018/) | Nov 14 | **San Francisco, CA** |
-| [Women in Statistics & Data Science](http://ww2.amstat.org/meetings/wsds/2018/) | Oct 18-20 | **Cincinnati, OH** |
-| [PyData](https://pydata.org/events.html) | Oct 17-19 | **New York, NY** |
-
-* [PyGotham 2018](2018/2018_10_05_pygotham.md), Oct 5-6, **New York, NY**
-* [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/), Sep 26-27, **Houston, TX**
-* [GraphConnect](https://graphconnect.com), Sep 20-21, **New York, NY**
-* [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/), Sep 12-14, **New York, NY**
-* [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny), Sep 11, **New York, NY**
-* [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca), Sep 4-7, **San Francisco, CA**
-* [O'Reilly JupyterCon NYC](https://conferences.oreilly.com/jupyter/jup-ny), Aug 21-24, **New York, NY**
-* [AI 4 Finance](https://ai4.io/finance/), Aug 21, **New York, NY**
-* [Write Speak Code](2018/2018_08_01_wsc.md) Aug 1-4, **New York, NY**
-* [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/), Jul 28 - Aug 2, **Vancouver, Canada**
-* [Amazon Alexa VOICE](2018/2018_07_24_amazon_alexa_voice.md) Jul 24-26, **Newark, NJ**
+| [NIPS 2018](https://nips.cc/Conferences/2018) | Dec 3-8 | Montreal, Canada |
+| [Plotcon](https://plotcon.plot.ly/tickets/) | Nov 17-18 | New York, NY |
+| [MLConf 2018](https://mlconf.com/events/mlconf-sf-2018/) | Nov 14 | San Francisco, CA |
+| [Women in Statistics & Data Science](http://ww2.amstat.org/meetings/wsds/2018/) | Oct 18-20 | Cincinnati, OH |
+| [PyData](https://pydata.org/events.html) | Oct 17-19 | New York, NY |
+| [PyGotham 2018](2018/2018_10_05_pygotham.md) | Oct 5-6 | New York, NY |
+| [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/) | Sep 26-27 | Houston, TX |
+| [GraphConnect](https://graphconnect.com) | Sep 20-21 | New York, NY |
+| [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/) | Sep 12-14 | New York, NY |
+| [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 11 | New York, NY |
+| [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 4-7 | San Francisco, CA |
+| [O'Reilly JupyterCon NYC](https://conferences.oreilly.com/jupyter/jup-ny) | Aug 21-24 | New York, NY |
+| [AI 4 Finance](https://ai4.io/finance/) | Aug 21 | New York, NY |
+| [Write Speak Code](2018/2018_08_01_wsc.md) | Aug 1-4 | New York, NY |
+| [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/) | Jul 28 - Aug 2 | Vancouver, Canada |
+| [Amazon Alexa VOICE](2018/2018_07_24_amazon_alexa_voice.md) | Jul 24-26 | Newark, NJ |
 * [OSCON 2018](2018/2018_07_16_oscon.md), Jul 16-19, **Portland, Oregon**
 * [ICML 2018](https://2017.icml.cc/Conferences/2018), Jul 10-15, **Stockholm, Sweden**
 * [Scipy 2018](2018/2018_07_09.scipy.md) Jul 9-13, **Austin, Texas** 
