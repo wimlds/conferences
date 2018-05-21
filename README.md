@@ -35,6 +35,7 @@
 | [Women in Robotics IV](https://sites.google.com/view/rss2018women/home) | Jun 29 | Pittsburgh, PA |
 | [QCon NYC](2018/2018_06_25_qcon.md) | Jun 25-28 | New York, NY |
 | [Scala NYC](http://na.scaladays.org/) | Jun 19-21 | New York, NY | 
+| [Data Science Salon](https://datascience.salon/ny6-18/) | Jun 13 | New York |
 | [DockerCon18](https://2018.dockercon.com/) | Jun 12-15 | San Francisco, CA |
 | [H2O World NYC](2018/2018_06_07_h2o_nyc.md) | Jun 6 | New York, NY |
 | [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america) | Jun 4-6 | San Francisco, CA |
