@@ -36,6 +36,7 @@
 | [Scipy 2018](2018/2018_07_09.scipy.md) | Jul 9-13 | Austin, TX | 
 | [Women in Robotics IV](https://sites.google.com/view/rss2018women/home) | Jun 29 | Pittsburgh, PA |
 | [QCon NYC](2018/2018_06_25_qcon.md) | Jun 25-28 | New York, NY |
+| [Women in Computer Vision Workshop](https://wicvworkshop.github.io/) | Jun 22 | Salt Lake City, UT |  
 | [Scala NYC](http://na.scaladays.org/) | Jun 19-21 | New York, NY | 
 | [Data Science Salon](https://datascience.salon/ny6-18/) | Jun 13 | New York, NY |
 | [DockerCon18](https://2018.dockercon.com/) | Jun 12-15 | San Francisco, CA |
