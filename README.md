@@ -11,6 +11,7 @@
 | Event    | Date  | Location | 
 |----|----|----|
 | [NIPS 2018](https://nips.cc/Conferences/2018) | Dec 3-8 | **Montreal, Canada** |
+| [AI World](https://aiworld.com) | Dec 3-5 | Boston, MA |
 |  |  |  |
 | [Plotcon](https://plotcon.plot.ly/tickets/) | Nov 17-18 | New York, NY |
 | [MLConf 2018](https://mlconf.com/events/mlconf-sf-2018/) | Nov 14 | San Francisco, CA |
