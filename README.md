@@ -51,6 +51,7 @@
 |  |  |  |
 |  |  |  |
 | [Intel AI DevCon 2018](https://www.intel.com/content/www/us/en/events/ai/devcon.html) | May 23-24 | San Francisco, CA |
+| [rOpenSci Unconf](http://unconf18.ropensci.org) | May 21-22 | Seattle, WA |
 | [PyCon 2018](2018/2018_05_09_pycon_ohio.md) | May 9-17 | Cleveland, OH |
 | [Google I/O](https://events.google.com/io/) | May 8-10 | Mountain View, CA | 
 | [TiE Inflect](https://www.tieinflect.org/) | May 4-5 | Santa Clara, CA |
