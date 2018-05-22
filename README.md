@@ -69,6 +69,7 @@
 | [TiE Inflect](https://www.tieinflect.org/) | May 4-5 | Santa Clara, CA |
 | [ODSC East](2018/2018_05_01_odsc_east.md) | May 1-4 | Boston, MA |
 |  |  |  |
+| [Collision 2018](https://websummit.com/collision#newsletter_signup_form) | Apr 30 - May 3 | New Orleans, LA |
 | [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md) | Apr 29 - May 2 | New York, NY |
 | [Women Who Code CONNECT](https://connect2018.womenwhocode.com) | Apr 28 | San Francisco, CA |
 | [Enterprise Data World](http://edw2017.dataversity.net) | Apr 22-27 | San Diego, CA |
