@@ -37,6 +37,7 @@
 | | | |
 | [A Cloud Guru Serverless](https://sf.serverlessconf.io/) | Jul 29 - Aug 1 | San Francisco, CA |
 | [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/) | Jul 28 - Aug 2 | **Vancouver, Canada** |
+| [Google Cloud](https://cloud.withgoogle.com/next18/sf/) | Jul 24-26 | San Francisco, CA |
 | [Amazon Alexa VOICE](2018/2018_07_24_amazon_alexa_voice.md) | Jul 24-26 | Newark, NJ |
 | [OSCON 2018](2018/2018_07_16_oscon.md) | Jul 16-19 | Portland, OR |
 | [ICML 2018](https://2017.icml.cc/Conferences/2018) | Jul 10-15 | **Stockholm, Sweden** |
