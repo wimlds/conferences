@@ -27,6 +27,7 @@
 | [O'Reilly JupyterCon NYC](https://conferences.oreilly.com/jupyter/jup-ny) | Aug 21-24 | New York, NY |
 | [AI 4 Finance](https://ai4.io/finance/) | Aug 21 | New York, NY |
 | [KDD 2018](http://www.kdd.org/kdd2018/) | Aug 19-23 | **London, England** |
+| [ML for Healthcare](http://www.mlforhc.org) | Aug 17-18 | Stanford, CA |
 | [Write Speak Code](2018/2018_08_01_wsc.md) | Aug 1-4 | New York, NY |
 | [A Cloud Guru Serverless](https://sf.serverlessconf.io/) | Jul 29 - Aug 1 | San Francisco, CA |
 | [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/) | Jul 28 - Aug 2 | **Vancouver, Canada** |
@@ -38,6 +39,7 @@
 | [QCon NYC](2018/2018_06_25_qcon.md) | Jun 25-28 | New York, NY |
 | [Women in Computer Vision Workshop](https://wicvworkshop.github.io/) | Jun 22 | Salt Lake City, UT |  
 | [Scala NYC](http://na.scaladays.org/) | Jun 19-21 | New York, NY | 
+| [DEEM Workshop](http://deem-workshop.org/#about) | Jun 15 | Houston, TX | 
 | [Data Science Salon](https://datascience.salon/ny6-18/) | Jun 13 | New York, NY |
 | [DockerCon18](https://2018.dockercon.com/) | Jun 12-15 | San Francisco, CA |
 | [O'Reilly Velocity](https://conferences.oreilly.com/velocity/vl-ca) | Jun 11-14 | San Jose, CA |
