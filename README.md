@@ -43,6 +43,7 @@
 | [Scipy 2018](2018/2018_07_09.scipy.md) | Jul 9-13 | Austin, TX | 
 |  |  |  |
 | [Women in Robotics IV](https://sites.google.com/view/rss2018women/home) | Jun 29 | Pittsburgh, PA |
+| [MongoDB World '18](https://www.mongodb.com/world18) | Jun 26-27 | New York, NY |
 | [QCon NYC](2018/2018_06_25_qcon.md) | Jun 25-28 | New York, NY |
 | [Women in Computer Vision Workshop](https://wicvworkshop.github.io/) | Jun 22 | Salt Lake City, UT |  
 | [Scala NYC](http://na.scaladays.org/) | Jun 19-21 | New York, NY | 
