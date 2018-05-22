@@ -25,6 +25,7 @@
 | [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/) | Sep 26-27 | Houston, TX |
 | [GraphConnect](https://graphconnect.com) | Sep 20-21 | New York, NY |
 | [The Data Science Conference](https://www.thedatascienceconference.com/) | Sep 20-21 | Chicago, IL |
+| [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) | Sep 16 | New York, NY |
 | [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/) | Sep 12-14 | New York, NY |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 11 | New York, NY |
 | [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 4-7 | San Francisco, CA |
