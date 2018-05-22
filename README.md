@@ -54,10 +54,10 @@
 | [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america) | Jun 4-6 | San Francisco, CA |
 | [Predictive Analytics World](https://www.predictiveanalyticsworld.com/)  | Jun 3-7 | Las Vegas, NV |
 |  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 | [ML4ALL](http://ml4all.org/) | May 27-29 | Portland, OR |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 | [Intel AI DevCon 2018](https://www.intel.com/content/www/us/en/events/ai/devcon.html) | May 23-24 | San Francisco, CA |
 | [rOpenSci Unconf](http://unconf18.ropensci.org) | May 21-22 | Seattle, WA |
 | [PyCon 2018](2018/2018_05_09_pycon_ohio.md) | May 9-17 | Cleveland, OH |
