@@ -48,6 +48,7 @@
 |  |  |  |
 |  |  |  |
 | [PyCon 2018](2018/2018_05_09_pycon_ohio.md) | May 9-17 | Cleveland, OH |
+| [TiE Inflect](https://www.tieinflect.org/) | May 4-5 | Santa Clara, CA |
 | [ODSC East](2018/2018_05_01_odsc_east.md) | May 1-4 | Boston, MA |
 | [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md) | Apr 29 - May 2 | New York, NY |
 | [Women Who Code CONNECT](https://connect2018.womenwhocode.com) | Apr 28 | San Francisco, CA |
