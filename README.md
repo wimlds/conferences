@@ -52,6 +52,7 @@
 |  |  |  |
 | [Intel AI DevCon 2018](https://www.intel.com/content/www/us/en/events/ai/devcon.html) | May 23-24 | San Francisco, CA |
 | [PyCon 2018](2018/2018_05_09_pycon_ohio.md) | May 9-17 | Cleveland, OH |
+| [Google I/O](https://events.google.com/io/) | May 8-10 | Mountain View, CA | 
 | [TiE Inflect](https://www.tieinflect.org/) | May 4-5 | Santa Clara, CA |
 | [ODSC East](2018/2018_05_01_odsc_east.md) | May 1-4 | Boston, MA |
 | [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md) | Apr 29 - May 2 | New York, NY |
