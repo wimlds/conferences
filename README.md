@@ -52,6 +52,7 @@
 | [DockerCon18](https://2018.dockercon.com/) | Jun 12-15 | San Francisco, CA |
 | [O'Reilly Velocity](https://conferences.oreilly.com/velocity/vl-ca) | Jun 11-14 | San Jose, CA |
 | [H2O World NYC](2018/2018_06_07_h2o_nyc.md) | Jun 6 | New York, NY |
+| [IEEE ICHI 2018](http://hpr.weill.cornell.edu/divisions/health_informatics/ieee_ichi.html) | Jun 4-7 | New York, NY |
 | [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america) | Jun 4-6 | San Francisco, CA |
 | [Predictive Analytics World](https://www.predictiveanalyticsworld.com/)  | Jun 3-7 | Las Vegas, NV |
 |  |  |  |
