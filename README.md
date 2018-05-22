@@ -20,6 +20,7 @@
 | [PyGotham 2018](2018/2018_10_05_pygotham.md) | Oct 5-6 | New York, NY |
 | [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/) | Sep 26-27 | Houston, TX |
 | [GraphConnect](https://graphconnect.com) | Sep 20-21 | New York, NY |
+| [The Data Science Conference](https://www.thedatascienceconference.com/) | Sep 20-21 | Chicago, IL |
 | [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/) | Sep 12-14 | New York, NY |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 11 | New York, NY |
 | [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 4-7 | San Francisco, CA |
@@ -42,6 +43,7 @@
 | [H2O World NYC](2018/2018_06_07_h2o_nyc.md) | Jun 6 | New York, NY |
 | [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america) | Jun 4-6 | San Francisco, CA |
 | [Predictive Analytics World](https://www.predictiveanalyticsworld.com/)  | Jun 3-7 | Las Vegas, NV |
+| [ML4ALL](http://ml4all.org/) | May 27-29 | Portland, OR |
 |  |  |  |
 |  |  |  |
 |  |  |  |
