@@ -34,7 +34,7 @@
 | [KDD 2018](http://www.kdd.org/kdd2018/) | Aug 19-23 | **London, England** |
 | [ML for Healthcare](http://www.mlforhc.org) | Aug 17-18 | Stanford, CA |
 | [Write Speak Code](2018/2018_08_01_wsc.md) | Aug 1-4 | New York, NY |
-|  |  |  |
+|--|--|--|
 | [A Cloud Guru Serverless](https://sf.serverlessconf.io/) | Jul 29 - Aug 1 | San Francisco, CA |
 | [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/) | Jul 28 - Aug 2 | **Vancouver, Canada** |
 | [Amazon Alexa VOICE](2018/2018_07_24_amazon_alexa_voice.md) | Jul 24-26 | Newark, NJ |
