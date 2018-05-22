@@ -12,6 +12,7 @@
 | [NIPS 2018](https://nips.cc/Conferences/2018) | Dec 3-8 | **Montreal, Canada** |
 | [AI World](https://aiworld.com) | Dec 3-5 | Boston, MA |
 |  |  |  |
+| [AWS re:Invent](https://reinvent.awsevents.com/) | Nov 26-30 | Las Vegas, NV |
 | [Plotcon](https://plotcon.plot.ly/tickets/) | Nov 17-18 | New York, NY |
 | [MLConf 2018](https://mlconf.com/events/mlconf-sf-2018/) | Nov 14 | San Francisco, CA |
 | [Data Science Pop-up](https://popup.dominodatalab.com/chicago/) | Nov 14 | Chicago, IL |
