@@ -64,6 +64,7 @@
 |  |  |  |
 |  |  |  |
 | [ML4ALL](http://ml4all.org/) | May 27-29 | Portland, OR |
+| [TNW (The Next Web)](https://thenextweb.com/conference/) | May 24-25 | **Amsterdam, Netherlands** |
 | [Intel AI DevCon 2018](https://www.intel.com/content/www/us/en/events/ai/devcon.html) | May 23-24 | San Francisco, CA |
 | [rOpenSci Unconf](http://unconf18.ropensci.org) | May 21-22 | Seattle, WA |
 | [PyCon 2018](2018/2018_05_09_pycon_ohio.md) | May 9-17 | Cleveland, OH |
