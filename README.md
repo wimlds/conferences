@@ -59,6 +59,7 @@
 | [IEEE ICHI 2018](http://hpr.weill.cornell.edu/divisions/health_informatics/ieee_ichi.html) | Jun 4-7 | New York, NY |
 | [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america) | Jun 4-6 | San Francisco, CA |
 | [Predictive Analytics World](https://www.predictiveanalyticsworld.com/)  | Jun 3-7 | Las Vegas, NV |
+| [R Finance 2018](http://www.rinfinance.com) | Jun 1-2 | Chicago, IL |
 |  |  |  |
 |  |  |  |
 |  |  |  |
