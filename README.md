@@ -34,6 +34,7 @@
 | [O'Reilly JupyterCon NYC](https://conferences.oreilly.com/jupyter/jup-ny) | Aug 21-24 | New York, NY |
 | [AI 4 Finance](https://ai4.io/finance/) | Aug 21 | New York, NY |
 | [KDD 2018](http://www.kdd.org/kdd2018/) | Aug 19-23 | **London, England** |
+| [FEED Workshop KDD 2018](https://ai4good.org/kdd-2018-workshop/) | Aug 19 |  **London, England** |
 | [ML for Healthcare](http://www.mlforhc.org) | Aug 17-18 | Stanford, CA |
 | [Write/Speak/Code](2018/2018_08_01_wsc.md) | Aug 1-4 | New York, NY |
 | | | |
