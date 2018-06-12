@@ -94,6 +94,7 @@
 | [Women in Data Science (WiDS)](http://www.widsconference.org/about1.html) | Mar 5 | Stanford, CA  |
 |  |  |  |
 | [O'Reilly Software Architecture NYC](https://conferences.oreilly.com/software-architecture/sa-ny) | Feb 25-28 | New York, NY |
+| [FAT (Fairness, Accountability & Transparency)](https://fatconference.org/2018/attending.html) | Feb 23-24 | New York, NY |
 | [IBM Index Developer](https://developer.ibm.com/indexconf/agenda/) | Feb 20-22 | San Francisco, CA | 
 | [RStudio](https://www.rstudio.com/conference/) | Feb 1-3 | San Diego, CA |
 
