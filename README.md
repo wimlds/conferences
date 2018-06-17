@@ -69,6 +69,7 @@
 | [TNW (The Next Web)](https://thenextweb.com/conference/) | May 24-25 | **Amsterdam, Netherlands** |
 | [Intel AI DevCon 2018](https://www.intel.com/content/www/us/en/events/ai/devcon.html) | May 23-24 | San Francisco, CA |
 | [rOpenSci Unconf](http://unconf18.ropensci.org) | May 21-22 | Seattle, WA |
+| [Symposium on Data Science & Statistics](https://ww2.amstat.org/meetings/sdss/2018/conferenceinfo.cfm) | May 16-19 | Reston, VA |
 | [European R Users Meeting](http://2018.erum.io) | May 14-16 | **Budapest, Hungary** |
 | [PyCon 2018](2018/2018_05_09_pycon_ohio.md) | May 9-17 | Cleveland, OH |
 | [Google I/O](https://events.google.com/io/) | May 8-10 | Mountain View, CA | 
