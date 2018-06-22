@@ -56,6 +56,7 @@
 | [Women in Robotics IV](https://sites.google.com/view/rss2018women/home) | Jun 29 | Pittsburgh, PA |
 | [MongoDB World '18](https://www.mongodb.com/world18) | Jun 26-27 | New York, NY |
 | [QCon NYC](2018/2018_06_25_qcon.md) | Jun 25-28 | New York, NY |
+| [Web & Social Media](http://www.icwsm.org/2018/) | Jun 25-28 | Stanford, CA |
 | [Women in Computer Vision Workshop](https://wicvworkshop.github.io/) | Jun 22 | Salt Lake City, UT |  
 | [Scala NYC](http://na.scaladays.org/) | Jun 19-21 | New York, NY | 
 | [DeveloperWeek New York](https://www.eventbrite.com/e/developerweek-nyc-2018-tickets-39737413674) | Jun 18-20 | New York, NY |
