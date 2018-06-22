@@ -5,6 +5,13 @@
 * [Women in Machine Learning Workshop](http://wimlworkshop.org/events/)
 * [PyData conferences](https://pydata.org/events.html)
 
+
+## 2019
+
+| Event    | Date  | Location | 
+|----|----|----|
+| [Viva Technology](https://vivatechnology.com) | May 16-18 | **Paris, France** |
+
 ## 2018 
 
 | Event    | Date  | Location | 
