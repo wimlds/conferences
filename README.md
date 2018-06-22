@@ -23,6 +23,7 @@
 | [Plotcon](https://plotcon.plot.ly/tickets/) | Nov 17-18 | New York, NY |
 | [MLConf 2018](https://mlconf.com/events/mlconf-sf-2018/) | Nov 14 | San Francisco, CA |
 | [Data Science Pop-up](https://popup.dominodatalab.com/chicago/) | Nov 14 | Chicago, IL |
+| [OpenCon](https://www.opencon2018.org) | Nov 2-4 | **Toronto, ON, Canada** |
 |  |  |  |
 | [ODSC West](https://odsc.com/california) | Oct 31 - Nov 3 | San Francisco, CA |
 | [PyData LA](https://pydata.org/la2018/) | Oct 22-24 | Los Angeles, CA |
