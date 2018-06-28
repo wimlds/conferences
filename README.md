@@ -32,7 +32,7 @@
 | [PyData NYC](https://pydata.org/events.html) | Oct 17-19 | New York, NY |
 | [PyGotham 2018](2018/2018_10_05_pygotham.md) | Oct 5-6 | New York, NY |
 |  |  |  |
-| [O'Reilly Velocity NYC](2018/2018_09_30_oreilly_velocity_nyc.md) | Sep 30- Oct 3 | New York, NY |
+| [O'Reilly Velocity NYC](2018/2018_09_30_oreilly_velocity_nyc.md) | Sep 30 - Oct 3 | New York, NY |
 | [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/) | Sep 26-27 | Houston, TX |
 | [GraphConnect](https://graphconnect.com) | Sep 20-21 | New York, NY |
 | [The Data Science Conference](https://www.thedatascienceconference.com/) | Sep 20-21 | Chicago, IL |
