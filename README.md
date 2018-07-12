@@ -39,6 +39,7 @@
 | [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) | Sep 16 | New York, NY |
 | [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/) | Sep 12-14 | New York, NY |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 11 | New York, NY |
+| [Women in Computer Vision](https://wicvworkshop.github.io/ECCV2018/index.html) | Sep 9 | **Munich, Germany** |
 | [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 4-7 | San Francisco, CA |
 |  |  |  |
 | [O'Reilly JupyterCon NYC](https://conferences.oreilly.com/jupyter/jup-ny) | Aug 21-24 | New York, NY |
