@@ -57,6 +57,7 @@
 | [Google Cloud](https://cloud.withgoogle.com/next18/sf/) | Jul 24-26 | San Francisco, CA |
 | [Amazon Alexa VOICE](2018/2018_07_24_amazon_alexa_voice.md) | Jul 24-26 | Newark, NJ |
 | [OSCON 2018](2018/2018_07_16_oscon.md) | Jul 16-19 | Portland, OR |
+| [AWS Summit NYC](https://aws.amazon.com/summits/new-york/agenda/) | Jul 16-17 | New York, NY |
 | [ICML 2018](https://2017.icml.cc/Conferences/2018) | Jul 10-15 | **Stockholm, Sweden** |
 | [Scipy 2018](2018/2018_07_09.scipy.md) | Jul 9-13 | Austin, TX | 
 |  |  |  |
