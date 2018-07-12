@@ -49,6 +49,9 @@
 | [ML for Healthcare](http://www.mlforhc.org) | Aug 17-18 | Stanford, CA |
 | [Write/Speak/Code](2018/2018_08_01_wsc.md) | Aug 1-4 | New York, NY |
 | | | |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 | [A Cloud Guru Serverless](https://sf.serverlessconf.io/) | Jul 29 - Aug 1 | San Francisco, CA |
 | [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/) | Jul 28 - Aug 2 | **Vancouver, Canada** |
 | [Google Cloud](https://cloud.withgoogle.com/next18/sf/) | Jul 24-26 | San Francisco, CA |
@@ -73,9 +76,6 @@
 | [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america) | Jun 4-6 | San Francisco, CA |
 | [Predictive Analytics World](https://www.predictiveanalyticsworld.com/)  | Jun 3-7 | Las Vegas, NV |
 | [R Finance 2018](http://www.rinfinance.com) | Jun 1-2 | Chicago, IL |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 |  |  |  |
 | [ML4ALL](http://ml4all.org/) | May 27-29 | Portland, OR |
 | [TNW (The Next Web)](https://thenextweb.com/conference/) | May 24-25 | **Amsterdam, Netherlands** |
