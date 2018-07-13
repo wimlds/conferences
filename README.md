@@ -60,6 +60,7 @@
 | [AWS Summit NYC](https://aws.amazon.com/summits/new-york/agenda/) | Jul 16-17 | New York, NY |
 | [ICML 2018](https://2017.icml.cc/Conferences/2018) | Jul 10-15 | **Stockholm, Sweden** |
 | [Scipy 2018](2018/2018_07_09.scipy.md) | Jul 9-13 | Austin, TX | 
+| [Intl Conf on Teaching Statistics (ICOTS)](https://icots.info/10/)  | Jul 8-13 | **Kyoto, Japan** |
 |  |  |  |
 | [Women in Robotics IV](https://sites.google.com/view/rss2018women/home) | Jun 29 | Pittsburgh, PA |
 | [MongoDB World '18](https://www.mongodb.com/world18) | Jun 26-27 | New York, NY |
