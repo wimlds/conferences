@@ -30,6 +30,7 @@
 | [PyData LA](https://pydata.org/la2018/) | Oct 22-24 | Los Angeles, CA |
 | [Women in Statistics & Data Science](http://ww2.amstat.org/meetings/wsds/2018/) | Oct 18-20 | Cincinnati, OH |
 | [PyData NYC](https://pydata.org/events.html) | Oct 17-19 | New York, NY |
+| [PAPIs (Predictive Applications and APIs)](https://www.papis.io/2018) | Oct 15-17 | Boston, MA |
 | [PyGotham 2018](2018/2018_10_05_pygotham.md) | Oct 5-6 | New York, NY |
 |  |  |  |
 | [O'Reilly Velocity NYC](2018/2018_09_30_oreilly_velocity_nyc.md) | Sep 30 - Oct 3 | New York, NY |
