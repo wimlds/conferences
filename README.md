@@ -11,6 +11,8 @@
 | Event    | Date  | Location | 
 |----|----|----|
 | [Viva Technology](https://vivatechnology.com) | May 16-18 | **Paris, France** |
+| [Nvidia GPU Technology](https://www.nvidia.com/en-us/gtc/) | Mar 18-22 | Silicon Valley, CA |
+
 
 ## 2018 
 
