@@ -23,6 +23,8 @@
 |  |  |  | |
 | [AWS re:Invent](https://reinvent.awsevents.com/) | Nov 26-30 | Las Vegas, NV | |
 | [Plotcon](https://plotcon.plot.ly/tickets/) | Nov 17-18 | New York, NY | |
+
+| [EGG 2018](dataiku.typeform.com/to/cZYBng) | Nov 15 | New York, NY | [discount](2018//2018_11_dataiku.md) |
 | [MLConf 2018](https://mlconf.com/events/mlconf-sf-2018/) | Nov 14 | San Francisco, CA | |
 | [Data Science Pop-up](https://popup.dominodatalab.com/chicago/) | Nov 14 | Chicago, IL |  |
 | [Scalable Computing](http://www.pdsw.org/index.shtml) |  Nov 12 | Dallas, TX |  |
