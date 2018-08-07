@@ -8,7 +8,7 @@
 The deadline to apply is **October 1, 2018**
 
 ## Website
-https://dataiku.typeform.com/to/cZYBng?__hssc=186155446.1.1532646274285&__hstc=186155446.7f98ab468774d6d4c083c3cb1cd276cb.1532646274285.1532646274285.1532646274285.1&__hsfp=1135735918&hsCtaTracking=8c65e25d-d82a-40ef-b0ce-7a95fdf26a4c%7C60d12e08-cb45-4402-963f-be677b2b01cc
+[EGG2018 conference by Dataiku](https://dataiku.typeform.com/to/cZYBng?__hssc=186155446.1.1532646274285&__hstc=186155446.7f98ab468774d6d4c083c3cb1cd276cb.1532646274285.1532646274285.1532646274285.1&__hsfp=1135735918&hsCtaTracking=8c65e25d-d82a-40ef-b0ce-7a95fdf26a4c%7C60d12e08-cb45-4402-963f-be677b2b01cc)
 
 ## About
 
