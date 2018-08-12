@@ -5,6 +5,9 @@
 * [Women in Machine Learning Workshop](http://wimlworkshop.org/events/)
 * [PyData conferences](https://pydata.org/events.html)
 
+### O'Reilly Conferences Discounts
+* save 20% with code: UGWMLDS [Strata, AI, JupyterCon, OSCON, Velocity, etc.]
+
 
 ## 2019
 
