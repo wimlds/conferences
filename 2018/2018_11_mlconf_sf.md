@@ -20,6 +20,9 @@ https://goo.gl/forms/wQkwhNCNdB4hlMp23
 ## Volunteering Opportunities
 email volunteers@mlconf.com
 
+## Application for Free Pass
+https://goo.gl/forms/RfP8AHctZWlF090f2
+
 ## Current Speakers
 - Been Kim, Research Scientist, Google Brain
 - Yevgeniy Vahlis, Head of Applied ML Research, Borealis AI
@@ -28,7 +31,7 @@ email volunteers@mlconf.com
 - Ilke Demir, Postdoctoral Researcher, Facebook
 - Michael Lindon, Senior Data Scientist, Tesla
 - Irina Rish, Researcher, The AI Foundations- Department of the IBM T.J. Watson Research Center
-- Dr. Leslie Smith, Senior Research Scientist, US Naval Research Laboratory
+- **Dr. Leslie Smith, Senior Research Scientist, US Naval Research Laboratory**
 - Forough Poursabzi-Sangdeh, Postdoctoral Researcher, Microsoft
 - Gopal Erinjippurath, Director, Analytics Engineering, Planet Inc
 
