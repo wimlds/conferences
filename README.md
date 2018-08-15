@@ -50,6 +50,7 @@
 | [Women in Computer Vision](https://wicvworkshop.github.io/ECCV2018/index.html) | Sep 9 | **Munich, Germany** |  |
 | [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 4-7 | San Francisco, CA | 20% code: UGWMLDS |
 |  |  |  |  |
+| [EuroSciPy](https://www.euroscipy.org/2018/) | Aug 28-Sep 1 | Trento, Italy |  |
 | [O'Reilly JupyterCon NYC](https://conferences.oreilly.com/jupyter/jup-ny) | Aug 21-24 | New York, NY | 20% code: UGWMLDS |
 | [AI 4 Finance](https://ai4.io/finance/) | Aug 21 | New York, NY |  |
 | [KDD 2018](http://www.kdd.org/kdd2018/) | Aug 19-23 | **London, England** |  |
