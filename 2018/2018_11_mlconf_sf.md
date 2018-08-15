@@ -10,6 +10,16 @@ https://mlconf.com/events/mlconf-sf-2018/
 ## Ticketing Site
 https://www.eventbrite.com/e/mlconf-sf-2018-tickets-45989163827
 
+## Discounts
+18% off:  
+https://www.eventbrite.com/e/mlconf-sf-2018-tickets-45989163827?discount=WiMLDSNNY18
+
+## Student Discounts
+https://goo.gl/forms/wQkwhNCNdB4hlMp23
+
+## Volunteering Opportunities
+email volunteers@mlconf.com
+
 ## Current Speakers
 - Been Kim, Research Scientist, Google Brain
 - Yevgeniy Vahlis, Head of Applied ML Research, Borealis AI
@@ -22,8 +32,4 @@ https://www.eventbrite.com/e/mlconf-sf-2018-tickets-45989163827
 - Forough Poursabzi-Sangdeh, Postdoctoral Researcher, Microsoft
 - Gopal Erinjippurath, Director, Analytics Engineering, Planet Inc
 
-## Student Discounts
-https://goo.gl/forms/wQkwhNCNdB4hlMp23
 
-## Volunteering Opportunities
-email volunteers@mlconf.com
