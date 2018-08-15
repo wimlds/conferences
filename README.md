@@ -30,6 +30,7 @@
 | [MLConf 2018](2018/2018_11_mlconf_sf.md) | Nov 14 | San Francisco, CA | [18% off](https://www.eventbrite.com/e/mlconf-sf-2018-tickets-45989163827?discount=WiMLDSNNY18)|
 | [Data Science Pop-up](https://popup.dominodatalab.com/chicago/) | Nov 14 | Chicago, IL |  |
 | [Scalable Computing](http://www.pdsw.org/index.shtml) |  Nov 12 | Dallas, TX |  |
+| [PyConIE](https://pyconie18.python.ie/) | Nov 10-11 | Dublin, Ireland |  |
 | [OpenCon](https://www.opencon2018.org) | Nov 2-4 | **Toronto, ON, Canada** |  |
 |  |  |  |  |
 | [ODSC West](https://odsc.com/california) | Oct 31 - Nov 3 | San Francisco, CA |  |
