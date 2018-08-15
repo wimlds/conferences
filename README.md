@@ -39,17 +39,17 @@
 | [PAPIs (Predictive Applications and APIs)](https://www.papis.io/2018) | Oct 15-17 | Boston, MA | [diversity tix](2018/2018_10_papis.md) |
 | [PyGotham 2018](2018/2018_10_05_pygotham.md) | Oct 5-6 | New York, NY |  |
 |  |  |  |  |
-| [O'Reilly Velocity NYC](2018/2018_09_30_oreilly_velocity_nyc.md) | Sep 30 - Oct 3 | New York, NY |  |
+| [O'Reilly Velocity NYC](2018/2018_09_30_oreilly_velocity_nyc.md) | Sep 30 - Oct 3 | New York, NY | 20% code: UGWMLDS |
 | [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/) | Sep 26-27 | Houston, TX |  |
 | [GraphConnect](https://graphconnect.com) | Sep 20-21 | New York, NY |  |
 | [The Data Science Conference](https://www.thedatascienceconference.com/) | Sep 20-21 | Chicago, IL |  |
 | [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) | Sep 16 | New York, NY |  |
 | [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/) | Sep 12-14 | New York, NY |  |
-| [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 11 | New York, NY |  |
+| [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 11 | New York, NY | 20% code: UGWMLDS |
 | [Women in Computer Vision](https://wicvworkshop.github.io/ECCV2018/index.html) | Sep 9 | **Munich, Germany** |  |
-| [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 4-7 | San Francisco, CA | 20% w/code UGWMLDS |
+| [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 4-7 | San Francisco, CA | 20% code: UGWMLDS |
 |  |  |  |  |
-| [O'Reilly JupyterCon NYC](https://conferences.oreilly.com/jupyter/jup-ny) | Aug 21-24 | New York, NY |  |
+| [O'Reilly JupyterCon NYC](https://conferences.oreilly.com/jupyter/jup-ny) | Aug 21-24 | New York, NY | 20% code: UGWMLDS |
 | [AI 4 Finance](https://ai4.io/finance/) | Aug 21 | New York, NY |  |
 | [KDD 2018](http://www.kdd.org/kdd2018/) | Aug 19-23 | **London, England** |  |
 | [FEED Workshop KDD 2018](https://ai4good.org/kdd-2018-workshop/) | Aug 19 |  **London, England** |  |
@@ -79,7 +79,7 @@
 | [DEEM Workshop](http://deem-workshop.org/#about) | Jun 15 | Houston, TX |   |
 | [Data Science Salon](https://datascience.salon/ny6-18/) | Jun 13 | New York, NY |  |
 | [DockerCon18](https://2018.dockercon.com/) | Jun 12-15 | San Francisco, CA |  |
-| [O'Reilly Velocity](https://conferences.oreilly.com/velocity/vl-ca) | Jun 11-14 | San Jose, CA |   |
+| [O'Reilly Velocity](https://conferences.oreilly.com/velocity/vl-ca) | Jun 11-14 | San Jose, CA |  20% code: UGWMLDS |
 | [H2O World NYC](2018/2018_06_07_h2o_nyc.md) | Jun 6 | New York, NY |  |
 | [IEEE ICHI 2018](http://hpr.weill.cornell.edu/divisions/health_informatics/ieee_ichi.html) | Jun 4-7 | New York, NY |  |
 | [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america) | Jun 4-6 | San Francisco, CA |  |
@@ -98,7 +98,7 @@
 | [ODSC East](2018/2018_05_01_odsc_east.md) | May 1-4 | Boston, MA |  |
 |  |  |  |  |
 | [Collision 2018](https://websummit.com/collision#newsletter_signup_form) | Apr 30 - May 3 | New Orleans, LA |  |
-| [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md) | Apr 29 - May 2 | New York, NY |  |
+| [O'Reilly AI](2018/2018_04_09_oreilly_ai_nyc.md) | Apr 29 - May 2 | New York, NY | 20% code: UGWMLDS |
 | [Women Who Code CONNECT](https://connect2018.womenwhocode.com) | Apr 28 | San Francisco, CA |  |
 | [Enterprise Data World](http://edw2017.dataversity.net) | Apr 22-27 | San Diego, CA |  |
 | [NY R Conference](2018/2018_04_20_ny_r_conf.md) | Apr 20-21 | New York, NY |  |
@@ -112,10 +112,10 @@
 | [Women in Analytics](https://connect2018.womenwhocode.com) | Mar 15 |  Columbus, OH |  |
 | [SXSW](https://www.sxsw.com/news/2017/sxsw-2018-dates/) | Mar 9-18 | Austin, TX |  |
 | [Machine Learning Symposium, NYAS](2018/2018_03_09_ml_symposium.md) | Mar 9 | New York, NY |  |
-| [O'Reilly Strata San Jose](2018_03_04_strata_san_jose_ca.md) | Mar 5-8 | San Jose, CA |  |
+| [O'Reilly Strata San Jose](2018_03_04_strata_san_jose_ca.md) | Mar 5-8 | San Jose, CA | 20% code: UGWMLDS |
 | [Women in Data Science (WiDS)](http://www.widsconference.org/about1.html) | Mar 5 | Stanford, CA  |  |
 |  |  |  |  |
-| [O'Reilly Software Architecture NYC](https://conferences.oreilly.com/software-architecture/sa-ny) | Feb 25-28 | New York, NY |  |
+| [O'Reilly Software Architecture NYC](https://conferences.oreilly.com/software-architecture/sa-ny) | Feb 25-28 | New York, NY | 20% code: UGWMLDS |
 | [FAT (Fairness, Accountability & Transparency)](https://fatconference.org/2018/attending.html) | Feb 23-24 | New York, NY |  |
 | [IBM Index Developer](https://developer.ibm.com/indexconf/agenda/) | Feb 20-22 | San Francisco, CA |  |
 | [RStudio](https://www.rstudio.com/conference/) | Feb 1-3 | San Diego, CA |  |
