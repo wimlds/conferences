@@ -27,7 +27,7 @@
 | [AWS re:Invent](https://reinvent.awsevents.com/) | Nov 26-30 | Las Vegas, NV | |
 | [Plotcon](https://plotcon.plot.ly/tickets/) | Nov 17-18 | New York, NY | |
 | [Dataiku EGG 2018](https://dataiku.typeform.com/to/cZYBng?__hssc=186155446.1.1532646274285&__hstc=186155446.7f98ab468774d6d4c083c3cb1cd276cb.1532646274285.1532646274285.1532646274285.1&__hsfp=1135735918&hsCtaTracking=8c65e25d-d82a-40ef-b0ce-7a95fdf26a4c%7C60d12e08-cb45-4402-963f-be677b2b01cc) | Nov 15 | New York, NY | [discount](2018//2018_11_dataiku.md) |
-| [MLConf 2018](https://mlconf.com/events/mlconf-sf-2018/) | Nov 14 | San Francisco, CA | [18% off](https://www.eventbrite.com/e/mlconf-sf-2018-tickets-45989163827?discount=WiMLDSNNY18)|
+| [MLConf 2018](2018/2018_11_mlconf_sf.md) | Nov 14 | San Francisco, CA | [18% off](https://www.eventbrite.com/e/mlconf-sf-2018-tickets-45989163827?discount=WiMLDSNNY18)|
 | [Data Science Pop-up](https://popup.dominodatalab.com/chicago/) | Nov 14 | Chicago, IL |  |
 | [Scalable Computing](http://www.pdsw.org/index.shtml) |  Nov 12 | Dallas, TX |  |
 | [OpenCon](https://www.opencon2018.org) | Nov 2-4 | **Toronto, ON, Canada** |  |
