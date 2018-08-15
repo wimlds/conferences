@@ -11,13 +11,13 @@
 
 ## 2019
 
-| Event    | Date  | Location | 
+| Event    | Date  | Location |
 |----|----|----|
 | [Viva Technology](https://vivatechnology.com) | May 16-18 | **Paris, France** |
 | [Nvidia GPU Technology](https://www.nvidia.com/en-us/gtc/) | Mar 18-22 | Silicon Valley, CA |
 
 
-## 2018 
+## 2018
 
 | Event    | Date  | Location | Note |
 |----|----|----|----|
@@ -25,14 +25,17 @@
 | [AI World](https://aiworld.com) | Dec 3-5 | Boston, MA | |
 |  |  |  | |
 | [AWS re:Invent](https://reinvent.awsevents.com/) | Nov 26-30 | Las Vegas, NV | |
+| [PyData Warsaw](https://pydata.org/warsaw2018/) | Nov 19-20 | Warsaw, Poland |  |
 | [Plotcon](https://plotcon.plot.ly/tickets/) | Nov 17-18 | New York, NY | |
 | [Dataiku EGG 2018](https://dataiku.typeform.com/to/cZYBng?__hssc=186155446.1.1532646274285&__hstc=186155446.7f98ab468774d6d4c083c3cb1cd276cb.1532646274285.1532646274285.1532646274285.1&__hsfp=1135735918&hsCtaTracking=8c65e25d-d82a-40ef-b0ce-7a95fdf26a4c%7C60d12e08-cb45-4402-963f-be677b2b01cc) | Nov 15 | New York, NY | [discount](2018//2018_11_dataiku.md) |
 | [MLConf 2018](2018/2018_11_mlconf_sf.md) | Nov 14 | San Francisco, CA | [18% off](https://www.eventbrite.com/e/mlconf-sf-2018-tickets-45989163827?discount=WiMLDSNNY18)|
 | [Data Science Pop-up](https://popup.dominodatalab.com/chicago/) | Nov 14 | Chicago, IL |  |
 | [Scalable Computing](http://www.pdsw.org/index.shtml) |  Nov 12 | Dallas, TX |  |
+| [PyConIE](https://pyconie18.python.ie/) | Nov 10-11 | Dublin, Ireland |  |
 | [OpenCon](https://www.opencon2018.org) | Nov 2-4 | **Toronto, ON, Canada** |  |
 |  |  |  |  |
 | [ODSC West](https://odsc.com/california) | Oct 31 - Nov 3 | San Francisco, CA |  |
+| [PyCon.DE](https://de.pycon.org/) | Oct 24-28 | Karlsruhe, Germany |  |
 | [PyData LA](https://pydata.org/la2018/) | Oct 22-24 | Los Angeles, CA |  |
 | [Women in Statistics & Data Science](http://ww2.amstat.org/meetings/wsds/2018/) | Oct 18-20 | Cincinnati, OH |  |
 | [PyData NYC](https://pydata.org/events.html) | Oct 17-19 | New York, NY | [discount](2018/2018_10_pydata.md) |
@@ -44,11 +47,13 @@
 | [GraphConnect](https://graphconnect.com) | Sep 20-21 | New York, NY |  |
 | [The Data Science Conference](https://www.thedatascienceconference.com/) | Sep 20-21 | Chicago, IL |  |
 | [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) | Sep 16 | New York, NY |  |
+| [PyCon UK](https://2018.pyconuk.org/) | Sep 15-19 | Cardiff, United Kingdom |  |
 | [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/) | Sep 12-14 | New York, NY |  |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 11 | New York, NY | 20% code: UGWMLDS |
 | [Women in Computer Vision](https://wicvworkshop.github.io/ECCV2018/index.html) | Sep 9 | **Munich, Germany** |  |
 | [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 4-7 | San Francisco, CA | 20% code: UGWMLDS |
 |  |  |  |  |
+| [EuroSciPy](https://www.euroscipy.org/2018/) | Aug 28-Sep 1 | Trento, Italy |  |
 | [O'Reilly JupyterCon NYC](https://conferences.oreilly.com/jupyter/jup-ny) | Aug 21-24 | New York, NY | 20% code: UGWMLDS |
 | [AI 4 Finance](https://ai4.io/finance/) | Aug 21 | New York, NY |  |
 | [KDD 2018](http://www.kdd.org/kdd2018/) | Aug 19-23 | **London, England** |  |
