@@ -33,6 +33,7 @@
 | [OpenCon](https://www.opencon2018.org) | Nov 2-4 | **Toronto, ON, Canada** |  |
 |  |  |  |  |
 | [ODSC West](https://odsc.com/california) | Oct 31 - Nov 3 | San Francisco, CA |  |
+| [PyCon.DE](https://de.pycon.org/) | Oct 24-28 | Karlsruhe, Germany |  |
 | [PyData LA](https://pydata.org/la2018/) | Oct 22-24 | Los Angeles, CA |  |
 | [Women in Statistics & Data Science](http://ww2.amstat.org/meetings/wsds/2018/) | Oct 18-20 | Cincinnati, OH |  |
 | [PyData NYC](https://pydata.org/events.html) | Oct 17-19 | New York, NY | [discount](2018/2018_10_pydata.md) |
