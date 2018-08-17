@@ -35,4 +35,4 @@ https://goo.gl/forms/RfP8AHctZWlF090f2
 - Forough Poursabzi-Sangdeh, Postdoctoral Researcher, Microsoft
 - Gopal Erinjippurath, Director, Analytics Engineering, Planet Inc
 
-
+![speakers](mlconf_speakers_2018.png)
