@@ -4,6 +4,9 @@
 - November 14, 2018
 - Hotel Nikko, 222 Mason Street, San Francisco, CA 94102
 
+## About
+This single-day, single-track event will host a variety of relevant presentations of today’s application of machine learning techniques and algorithms from experts from Google Brain, Uber, Facebook, Baidu, Tesla, & More. The event will host presentations on novel applications of machine learning within real-world arenas such as: geospatial data, cancer metastasis detection, various NLP challenges, and more to be announced soon.
+
 ## Event Website
 https://mlconf.com/events/mlconf-sf-2018/
 
