@@ -14,6 +14,7 @@
 | Event    | Date  | Location |
 |----|----|----|
 | [Viva Technology](https://vivatechnology.com) | May 16-18 | **Paris, France** |
+| [Women in Analytics](https://www.womeninanalytics.org) | Mar 21-22 |  Columbus, OH |  |
 | [Nvidia GPU Technology](https://www.nvidia.com/en-us/gtc/) | Mar 18-22 | Silicon Valley, CA |
 
 
@@ -114,7 +115,7 @@
 |  |  |  |  |
 | [Intersect 2018 Conference, Udacity](https://www.udacity.com/intersect) | Mar 27 | Mountainview, CA |  |
 | [Scaled ML](http://scaledml.org) | Mar 24 | Stanford, CA |  |
-| [Women in Analytics](https://connect2018.womenwhocode.com) | Mar 15 |  Columbus, OH |  |
+| [Women in Analytics](https://www.womeninanalytics.org) | Mar 15 |  Columbus, OH |  |
 | [SXSW](https://www.sxsw.com/news/2017/sxsw-2018-dates/) | Mar 9-18 | Austin, TX |  |
 | [Machine Learning Symposium, NYAS](2018/2018_03_09_ml_symposium.md) | Mar 9 | New York, NY |  |
 | [O'Reilly Strata San Jose](2018_03_04_strata_san_jose_ca.md) | Mar 5-8 | San Jose, CA | 20% code: UGWMLDS |
