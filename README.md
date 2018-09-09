@@ -47,6 +47,7 @@
 | [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/) | Sep 26-27 | Houston, TX |  |
 | [GraphConnect](https://graphconnect.com) | Sep 20-21 | New York, NY |  |
 | [The Data Science Conference](https://www.thedatascienceconference.com/) | Sep 20-21 | Chicago, IL |  |
+| [Data Science Salon NY](https://datascience.salon/ny9-18/) | Sep 17 | New York, NY |  |
 | [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) | Sep 16 | New York, NY |  |
 | [PyCon UK](https://2018.pyconuk.org/) | Sep 15-19 | Cardiff, United Kingdom |  |
 | [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/) | Sep 12-14 | New York, NY |  |
