@@ -11,9 +11,9 @@
 
 ## 2019
 
-| Event    | Date  | Location |
-|----|----|----|
-| [Viva Technology](https://vivatechnology.com) | May 16-18 | **Paris, France** |
+| Event    | Date  | Location | Note |
+|----|----|----|----|
+| [Viva Technology](https://vivatechnology.com) | May 16-18 | **Paris, France** | 
 | [Women in Analytics](https://www.womeninanalytics.org) | Mar 21-22 |  Columbus, OH |  |
 | [Nvidia GPU Technology](https://www.nvidia.com/en-us/gtc/) | Mar 18-22 | Silicon Valley, CA |
 | [Women in Data Science (WiDS)](https://www.widsconference.org/) | Mar 4 | Stanford, CA  |  |
