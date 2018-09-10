@@ -53,6 +53,7 @@
 | [GraphConnect](https://graphconnect.com) | Sep 20-21 | New York, NY |  |
 | [The Data Science Conference](https://www.thedatascienceconference.com/) | Sep 20-21 | Chicago, IL |  |
 | [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) | Sep 16 | New York, NY |  |
+| [Women in Tech Summit (WITS)](https://womenintechsummit.net/wits-west/) | Sep 15 | Denver, CO |  |
 | [PyCon UK](https://2018.pyconuk.org/) | Sep 15-19 | **Cardiff, United Kingdom** |  |
 | [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/) | Sep 12-14 | New York, NY |  |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 11 | New York, NY | 20% code: UGWMLDS |
