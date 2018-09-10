@@ -16,6 +16,7 @@
 | [Viva Technology](https://vivatechnology.com) | May 16-18 | **Paris, France** |
 | [Women in Analytics](https://www.womeninanalytics.org) | Mar 21-22 |  Columbus, OH |  |
 | [Nvidia GPU Technology](https://www.nvidia.com/en-us/gtc/) | Mar 18-22 | Silicon Valley, CA |
+| [Applied Machine Learning Days](https://www.appliedmldays.org/) | Jan 26-29 | **Lausanne, Switzerland** |
 
 
 ## 2018
@@ -40,6 +41,7 @@
 | [PyData LA](https://pydata.org/la2018/) | Oct 22-24 | Los Angeles, CA |  |
 | [Women in Statistics & Data Science](http://ww2.amstat.org/meetings/wsds/2018/) | Oct 18-20 | Cincinnati, OH |  |
 | [PyData NYC](https://pydata.org/events.html) | Oct 17-19 | New York, NY | [discount](2018/2018_10_pydata.md) |
+| [AI Now 2018 Symposium](https://ainowinstitute.org/) | Oct 16 | New York, NY |  |
 | [PAPIs (Predictive Applications and APIs)](https://www.papis.io/2018) | Oct 15-17 | Boston, MA | [diversity tix](2018/2018_10_papis.md) |
 | [PyGotham 2018](2018/2018_10_05_pygotham.md) | Oct 5-6 | New York, NY |  |
 |  |  |  |  |
@@ -72,6 +74,7 @@
 | [Amazon Alexa VOICE](2018/2018_07_24_amazon_alexa_voice.md) | Jul 24-26 | Newark, NJ |  |
 | [OSCON 2018](2018/2018_07_16_oscon.md) | Jul 16-19 | Portland, OR |  |
 | [AWS Summit NYC](https://aws.amazon.com/summits/new-york/agenda/) | Jul 16-17 | New York, NY |  |
+| [Assoc for Computational Linguistics](https://acl2018.org/)  |Jul 15-20 | **Melbourne, Australia** |   |
 | [ICML 2018](https://2017.icml.cc/Conferences/2018) | Jul 10-15 | **Stockholm, Sweden** |  |
 | [Scipy 2018](2018/2018_07_09.scipy.md) | Jul 9-13 | Austin, TX |   |
 | [Intl Conf on Teaching Statistics (ICOTS)](https://icots.info/10/)  | Jul 8-13 | **Kyoto, Japan** |  |
