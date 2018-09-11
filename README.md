@@ -36,6 +36,8 @@
 | [Data Science Pop-up](https://popup.dominodatalab.com/chicago/) | Nov 14 | Chicago, IL |  |
 | [Scalable Computing](http://www.pdsw.org/index.shtml) |  Nov 12 | Dallas, TX |  |
 | [PyConIE](https://pyconie18.python.ie/) | Nov 10-11 | **Dublin, Ireland** |  |
+| [DataEngConf](https://www.dataengconf.com/no-bullshit-nyc-thank-you?) | Nov 8-9 | New York, NY  |  |
+
 | [OpenCon](https://www.opencon2018.org) | Nov 2-4 | **Toronto, ON, Canada** |  |
 |  |  |  |  |
 | [ODSC West](https://odsc.com/california) | Oct 31 - Nov 3 | San Francisco, CA |  |
