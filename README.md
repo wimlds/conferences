@@ -61,6 +61,9 @@
 | [Women in Computer Vision](https://wicvworkshop.github.io/ECCV2018/index.html) | Sep 9 | **Munich, Germany** |  |
 | [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 4-7 | San Francisco, CA | 20% code: UGWMLDS |
 |  |  |  |  |
+|  |  |  |  |  
+|  |  |  |  |
+|  |  |  |  |
 | [EuroSciPy](https://www.euroscipy.org/2018/) | Aug 28-Sep 1 | **Trento, Italy** |  |
 | [O'Reilly JupyterCon NYC](https://conferences.oreilly.com/jupyter/jup-ny) | Aug 21-24 | New York, NY | 20% code: UGWMLDS |
 | [AI 4 Finance](https://ai4.io/finance/) | Aug 21 | New York, NY |  |
@@ -68,9 +71,6 @@
 | [FEED Workshop KDD 2018](https://ai4good.org/kdd-2018-workshop/) | Aug 19 |  **London, England** |  |
 | [ML for Healthcare](http://www.mlforhc.org) | Aug 17-18 | Stanford, CA |  |
 | [Write/Speak/Code](2018/2018_08_01_wsc.md) | Aug 1-4 | New York, NY |  |
-|  |  |  |  |  
-|  |  |  |  |
-|  |  |  |  |
 |  |  |  |  |
 | [A Cloud Guru Serverless](https://sf.serverlessconf.io/) | Jul 29 - Aug 1 | San Francisco, CA |  |
 | [Joint Statistical Meetings (JSM)](http://ww2.amstat.org/meetings/jsm/2018/) | Jul 28 - Aug 2 | **Vancouver, Canada** |  |
