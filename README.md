@@ -48,6 +48,7 @@
 | [AI Now 2018 Symposium](https://ainowinstitute.org/) | Oct 16 | New York, NY |  |
 | [PAPIs (Predictive Applications and APIs)](https://www.papis.io/2018) | Oct 15-17 | Boston, MA | [diversity tix](2018/2018_10_papis.md) |
 | [PyGotham 2018](2018/2018_10_05_pygotham.md) | Oct 5-6 | New York, NY |  |
+|  [PyTorch Developers Conference](https://pytorch.fbreg.com) | Oct 2 | San Francisco, CA | | 
 |  |  |  |  |
 | [O'Reilly Velocity NYC](2018/2018_09_30_oreilly_velocity_nyc.md) | Sep 30 - Oct 3 | New York, NY | 20% code: UGWMLDS |
 | [Grace Hopper Celebration](https://ghc.anitab.org/2018-attend/location/) | Sep 26-27 | Houston, TX |  |
