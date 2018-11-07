@@ -11,15 +11,16 @@
 
 ## 2019
 
-| Event    | Date  | Location | Note |
-|----|----|----|----|
+| Event    | Date  | Location | CFP Deadline | Note |
+|----|----|----|----| --- |
+| [AI Conference NY)(https://conferences.oreilly.com/artificial-intelligence/ai-ny) | April 15-18 | New York, NY | CFP past |
 | [Viva Technology](https://vivatechnology.com) | May 16-18 | **Paris, France** | 
 | [Women in Analytics](https://www.womeninanalytics.org) | Mar 21-22 |  Columbus, OH |  |
 | [Nvidia GPU Technology](https://www.nvidia.com/en-us/gtc/) | Mar 18-22 | Silicon Valley, CA |
 | [Women in Data Science (WiDS)](https://www.widsconference.org/) | Mar 4 | Stanford, CA  |  |
-| [O'Reilly Software Architecture NYC](https://conferences.oreilly.com/software-architecture/sa-ny) | Feb 3-6 | New York, NY | 20% code: UGWMLDS |
+| [O'Reilly Software Architecture NYC](https://conferences.oreilly.com/software-architecture/sa-ny) | Feb 3-6 | New York, NY |  | 20% code: UGWMLDS |
 | [Applied Machine Learning Days](https://www.appliedmldays.org/) | Jan 26-29 | **Lausanne, Switzerland** |
-| [RStudio](http://www.cvent.com/events/rstudio-conf-austin/event-summary-dd6d75526f3c4554b67c4de32aeffb47.aspx) | Jan 15-19 | Austin, TX | [diversity scholarships](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/)
+| [RStudio](http://www.cvent.com/events/rstudio-conf-austin/event-summary-dd6d75526f3c4554b67c4de32aeffb47.aspx) | Jan 15-19 | Austin, TX | | [diversity scholarships](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/)
 
 
 ## 2018
