@@ -56,7 +56,6 @@
 
 
 
-
 ## 2018
 
 | Event    | Date  | Location | Note |
