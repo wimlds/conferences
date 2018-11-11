@@ -12,11 +12,11 @@
 ## 2019
 
 | Event   | Date  | Location | CFP Deadline | CoC | Note |
-|----|----|----|----| --- | --- |
-| [RStudio](http://www.cvent.com/events/rstudio-conf-austin/event-summary-dd6d75526f3c4554b67c4de32aeffb47.aspx) | Jan 15-19 | Austin, TX | | | [diversity scholarships](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/)
-| [Applied Machine Learning Days](https://www.appliedmldays.org/) | Jan 26-29 | **Lausanne, Switzerland** |
+|----|----|----|----|----|----|
+| [RStudio](http://www.cvent.com/events/rstudio-conf-austin/event-summary-dd6d75526f3c4554b67c4de32aeffb47.aspx) | Jan 15-19 | Austin, TX | | | [diversity scholarships](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/) |
+| [Applied Machine Learning Days](https://www.appliedmldays.org/) | Jan 26-29 | **Lausanne, Switzerland** | | | |
 | [FAT (Fairness, Accountability & Transparency)](https://fatconference.org/2019/index.html) | Jan 29-31 | Atlanta, GA | CFP Past | | |
-| [O'Reilly Software Architecture NYC](https://conferences.oreilly.com/software-architecture/sa-ny) | Feb 3-6 | New York, NY |  | | 20% code: UGWMLDS |
+| [O'Reilly Software Architecture NYC](https://conferences.oreilly.com/software-architecture/sa-ny) | Feb 3-6 | New York, NY | | | 20% code: UGWMLDS |
 [H2O AI World San Fransisco](http://h2oworld.h2o.ai/h2o-world-san-francisco/) | Feb 4-5 | San Fransisco, CA  | CFP Past | | |
 |[DeveloperWeek](http://www.developerweek.com/) | Feb 20-24 | San Francisco, CA | [Nov 16, 2018](http://www.developerweek.com/conference/apply-to-speak/) | [CoC](http://www.developerweek.com/code-of-conduct/) | |
 | [Data Science Salon Austin](https://datascience.salon/austin/) | Feb 21-22 | Austin, TX | CFP Past | | |
@@ -26,7 +26,7 @@
 | [Enterprise Data World](https://edw2019.dataversity.net/) | March 17-22 | Boston, MA | CFP Past | [Coc](https://edw2019.dataversity.net/code-of-conduct) | |
 | [Nvidia GPU Technology](https://www.nvidia.com/en-us/gtc/) | Mar 18-22 | Silicon Valley, CA | | | |
 | [Postgres Conf](https://postgresconf.org/conferences/2019/) | March 18-22 | New York, NY | [Jan 11, 2019](https://postgresconf.org/conferences/2019/program/proposals) | Footer of website | |
-| [Women in Analytics](https://www.womeninanalytics.org) | Mar 21-22 |  Columbus, OH | | |
+| [Women in Analytics](https://www.womeninanalytics.org) | Mar 21-22 |  Columbus, OH | | | |
 | [O'Reilly Strata San Fransisco](https://conferences.oreilly.com/strata/strata-ca) | March 25-28 | San Francisco, CA | CFP Past | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [ScaledML](http://scaledml.org/2019/) | March 27-28 | Mountain View, CA | [Rolling?](https://www.surveymonkey.com/r/KQ2YRLP) | | |
 | [Informs Analytics Conf](http://meetings2.informs.org/wordpress/analytics2019/) | April 14-16 | Austin, TX | [Dec 17, 2018](http://meetings2.informs.org/wordpress/analytics2019/abstract-submission/) | | |
