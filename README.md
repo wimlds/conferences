@@ -12,7 +12,7 @@
 ## 2019
 
 | Event   | Date  | Location | CFP Deadline | CoC | Note |
-|----|----|----|----| --- |
+|----|----|----|----| --- | --- |
 | [RStudio](http://www.cvent.com/events/rstudio-conf-austin/event-summary-dd6d75526f3c4554b67c4de32aeffb47.aspx) | Jan 15-19 | Austin, TX | | | [diversity scholarships](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/)
 | [Applied Machine Learning Days](https://www.appliedmldays.org/) | Jan 26-29 | **Lausanne, Switzerland** |
 | [FAT (Fairness, Accountability & Transparency)](https://fatconference.org/2019/index.html) | Jan 29-31 | Atlanta, GA | CFP Past | | |
