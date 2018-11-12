@@ -30,7 +30,7 @@
 | [O'Reilly Strata San Fransisco](https://conferences.oreilly.com/strata/strata-ca) | March 25-28 | San Francisco, CA | CFP Past | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [ScaledML](http://scaledml.org/2019/) | March 27-28 | Mountain View, CA | [Rolling?](https://www.surveymonkey.com/r/KQ2YRLP) | | |
 | [Informs Analytics Conf](http://meetings2.informs.org/wordpress/analytics2019/) | April 14-16 | Austin, TX | [Dec 17, 2018](http://meetings2.informs.org/wordpress/analytics2019/abstract-submission/) | | |
-| [AI Conference NY)(https://conferences.oreilly.com/artificial-intelligence/ai-ny) | April 15-18 | New York, NY | CFP past | | |
+| [AI Conference NY](https://conferences.oreilly.com/artificial-intelligence/ai-ny) | April 15-18 | New York, NY | CFP past | | |
 | [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america) | April 23-25 | San Fransisco, CA | | | |
 | [Strata Data, London](https://conferences.oreilly.com/strata/strata-eu) | April 29 - May 2 | London, UK | CFP Past | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [DockerCon19] | April 30 - May 2 | San Fransisco, CA | | | |
