@@ -28,7 +28,7 @@
 | [Postgres Conf](https://postgresconf.org/conferences/2019/) | March 18-22 | New York, NY | [Jan 11, 2019](https://postgresconf.org/conferences/2019/program/proposals) | Footer of website | |
 | [Women in Analytics](https://www.womeninanalytics.org) | Mar 21-22 |  Columbus, OH | | | |
 | [O'Reilly Strata San Fransisco](https://conferences.oreilly.com/strata/strata-ca) | March 25-28 | San Francisco, CA | CFP Past | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
-| [ScaledML](http://scaledml.org/2019/) | March 27-28 | Mountain View, CA | [Rolling?](https://www.surveymonkey.com/r/KQ2YRLP) | | |
+| [ScaledML](http://scaledml.org/2019/) | March 27-28 | Mountain View, CA | [Rolling?](https://www.surveymonkey.com/r/KQ2YRLP) | | FriendsOfScaledML (90% off)|
 | [Informs Analytics Conf](http://meetings2.informs.org/wordpress/analytics2019/) | April 14-16 | Austin, TX | [Dec 17, 2018](http://meetings2.informs.org/wordpress/analytics2019/abstract-submission/) | | |
 | [AI Conference NY](https://conferences.oreilly.com/artificial-intelligence/ai-ny) | April 15-18 | New York, NY | CFP past | | |
 | [Spark + AI Summit 2018](https://databricks.com/sparkaisummit/north-america) | April 23-25 | San Fransisco, CA | | | |
