@@ -37,6 +37,7 @@
 | [DockerCon19] | April 30 - May 2 | San Fransisco, CA | | | |
 | [ODSC East](https://odsc.com/boston) | May 1-4| Boston, MA | | | |
 | [PyCon 2019](https://us.pycon.org/2019/) | May 1-9| Cleveland, OH | [Jan 3, 2019](https://us.pycon.org/2019/speaking/talks/) | [CoC](https://us.pycon.org/2019/about/code-of-conduct/) | |
+| [PyCon X](https://www.pycon.it/en/) | May 2 - 5   | Florence, IT  | [Jan 6, 2019](https://www.pycon.it/en/call-for-proposals/) | [CoC](https://www.pycon.it/en/code-conduct/) |   |
 | [Deep Learning World, Germany](https://deeplearningworld.de/call-for-speakers/) | May 6 | Munich, Germany | [Nov 30, 2018](https://deeplearningworld.de/call-for-speakers/) | | |
 | [Predictive Analytics World, Germany](https://predictiveanalyticsworld.de/en/industry4-0/muenchen2019/) | May 6-7 | Munich, Germany | [Nov 30, 2018](https://predictiveanalyticsworld.de/en/industry4-0/call-for-speaker/) | | |
 | [TNW(The Next Web)](https://thenextweb.com/conference/) | May 9-10 | Amsterdam, NL | Not open yet | [CoC](https://thenextweb.com/conference/code-of-conduct) | |
