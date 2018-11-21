@@ -23,7 +23,7 @@
 | [Enterprise Data World](https://edw2019.dataversity.net/) | March 17-22 | Boston, MA | CFP Past | [Coc](https://edw2019.dataversity.net/code-of-conduct) | |
 | [Nvidia GPU Technology](https://www.nvidia.com/en-us/gtc/) | Mar 18-22 | Silicon Valley, CA | | | |
 | [Postgres Conf](https://postgresconf.org/conferences/2019/) | March 18-22 | New York, NY | [Jan 11, 2019](https://postgresconf.org/conferences/2019/program/proposals) | Footer of website | |
-| [Women in Analytics](https://www.womeninanalytics.org) | Mar 21-22 |  Columbus, OH | | | |
+| [Women in Analytics](https://www.womeninanalytics.org) | Mar 21-22 |  Columbus, OH | [Nov 23](https://www.womeninanalytics.org/call-for-speakers) | [CoC](https://www.womeninanalytics.org/code-of-conduct) | |
 | [O'Reilly Strata San Fransisco](https://conferences.oreilly.com/strata/strata-ca) | March 25-28 | San Francisco, CA | CFP Past | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [ScaledML](http://scaledml.org/2019/) | March 27-28 | Mountain View, CA | [Rolling?](https://www.surveymonkey.com/r/KQ2YRLP) | | FriendsOfScaledML (90% off)|
 | [MLConf NYC]( ) | Mar 29 | New York, NY |  | |
