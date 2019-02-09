@@ -28,6 +28,7 @@
 | [O'Reilly Strata San Fransisco](https://conferences.oreilly.com/strata/strata-ca) | March 25-28 | San Francisco, CA | CFP Past | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [ScaledML](http://scaledml.org/2019/) | March 27-28 | Mountain View, CA | [Rolling?](https://www.surveymonkey.com/r/KQ2YRLP) | | FriendsOfScaledML (90% off)|
 | [MLConf NYC](https://mlconf.com/events/mlconf-new-york-2019/ ) | Mar 29 | New York, NY      |  | |
+| [SysML Conference](http://www.sysml.cc/) | March 31 - April 1 | Stanford, CA | ~~[September 28, 2018](http://www.sysml.cc/submission.html)~~ | [CoC](http://www.sysml.cc/index.html#conduct) |
 | [WWCode CONNECT 2019](https://code.womenwhocode.com/connect/) | Apr 13 | San Francisco, CA |  | |
 | [Informs Analytics Conf](http://meetings2.informs.org/wordpress/analytics2019/) | April 14-16 | Austin, TX | [Dec 17, 2018](http://meetings2.informs.org/wordpress/analytics2019/abstract-submission/) | | |
 | [AI Conference NY](https://conferences.oreilly.com/artificial-intelligence/ai-ny) | April 15-18 | New York, NY | CFP past | | |
