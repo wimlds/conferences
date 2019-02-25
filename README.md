@@ -33,6 +33,7 @@
 | [Informs Analytics Conf](http://meetings2.informs.org/wordpress/analytics2019/) | April 14-16 | Austin, TX | ~~[Dec 17, 2018](http://meetings2.informs.org/wordpress/analytics2019/abstract-submission/)~~ | | |
 | [AI Conference NY](https://conferences.oreilly.com/artificial-intelligence/ai-ny) | April 15-18 | New York, NY | CFP past | | |
 | [Spark + AI Summit 2019](https://databricks.com/sparkaisummit/north-america) | April 23-25 | San Fransisco, CA | | | |
+| [ML4ALL](http://ml4all.org/index.html) | April 28 - 30 | Portland, OR | [Not listed, CFP open as of 2/25](http://ml4all.org/speak.html) | [CoC](http://ml4all.org/code-of-conduct.html) | Travel stipend available for speakers |
 | [Strata Data, London](https://conferences.oreilly.com/strata/strata-eu) | April 29 - May 2 | London, UK | CFP Past | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [DockerCon19] | April 30 - May 2 | San Fransisco, CA | | | |
 | [ODSC East](https://odsc.com/boston) | May 1-4| Boston, MA | | | |
