@@ -56,7 +56,7 @@
 | [QCon NYC](https://qconnewyork.com/) | Jun 24-26 | New York, NY |  | [CoC](https://qconnewyork.com/code-conduct-0) | |
 | [DEEM Workshop](http://deem-workshop.org/#about) | Jun 30 | Amsterdam, NL | [March 11, 2019](http://deem-workshop.org/#about) | | |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 23-26 | New York, NY | Jan-March 2019 | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
-| Girls in Tech Catalyst Conference](https://catalystsf.girlsintech.org/) | June 19-20 | San Francisco, CA | CFP closed |  | 15% off code: CATALYSTCOMMUNITY |
+| [Girls in Tech Catalyst Conference](https://catalystsf.girlsintech.org/) | June 19-20 | San Francisco, CA | CFP closed |  | 15% off code: CATALYSTCOMMUNITY |
 
 
 
