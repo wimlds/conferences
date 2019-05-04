@@ -57,7 +57,7 @@
 | [DEEM Workshop](http://deem-workshop.org/#about) | Jun 30 | Amsterdam, NL | [March 11, 2019](http://deem-workshop.org/#about) | | |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 23-26 | New York, NY | Jan-March 2019 | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [Girls in Tech Catalyst Conference](https://catalystsf.girlsintech.org/) | June 19-20 | San Francisco, CA | CFP Past |  | 15% off code: CATALYSTCOMMUNITY |
-| [Creative Tech Week 2019](https://www.eventbrite.com/e/ctw2019-conference-creative-tech-week-tickets-59667017656) | May 10-11 | New York, NY | CFP Past |  | 50% off code: WiMLDS|
+| [Creative Tech Week 2019](https://ctw2019conference.eventbrite.com/?aff=WiMLDS&afu=180567599891) | May 10-11 | New York, NY | CFP Past |  | early bird tix as low was $35/day |
 | [QCon](https://qconnewyork.com/?utm_source=usergroup&utm_medium=email&utm_campaign=WiMLDSQConNY19) | June 24-26 | New York, NY | CFP Past |  | $100 off code: WiMLDSQConNY19|
 
 
