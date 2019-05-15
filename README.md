@@ -36,6 +36,7 @@
 | [Creative Tech Week 2019](https://ctw2019conference.eventbrite.com/?aff=WiMLDS&afu=180567599891) | May 10-11 | New York, NY | CFP Past |  | early bird tix as low was $35/day |
 | [QCon](https://qconnewyork.com/?utm_source=usergroup&utm_medium=email&utm_campaign=WiMLDSQConNY19) | June 24-26 | New York, NY | CFP Past |  | $100 off code: WiMLDSQConNY19|
 | [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2019/conferenceinfo.cfm) | October 3-5 | Seattle, WA | CFP Past |  | |
+| [PyCon Africa](https://africa.pycon.org/speaking/) | August 6-10 | Accra, Ghana | June 1 |  | |
 
 
 
