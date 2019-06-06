@@ -38,5 +38,11 @@
 | [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2019/conferenceinfo.cfm) | October 3-5 | Seattle, WA | CFP Past |  | |
 | [PyCon Africa](https://africa.pycon.org/speaking/) | August 6-10 | Accra, Ghana | June 1 |  | |
 
+# Conference Travel Funding
 
+There are some options for funding to attend conferences if you are not able to secure funding or afford the travel on your own.
 
+- Ask the conference organizers for funding (airfare + hotel, or just hotel) directly, especially if you are a speaker.
+- [A list of tech conferences that provide diversity travel grants/scholarships](https://github.com/fvcproductions/diversify-me)
+- [Google Travel and Conference Grants](https://buildyourfuture.withgoogle.com/scholarships/google-travel-and-conference-grants/#!?detail-content-tabby_activeEl=overview)
+- If you have any other suggestons, please let us know by opening an issue or sending an email to info@wimlds.org!
