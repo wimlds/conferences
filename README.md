@@ -37,6 +37,8 @@
 | [QCon](https://qconnewyork.com/?utm_source=usergroup&utm_medium=email&utm_campaign=WiMLDSQConNY19) | June 24-26 | New York, NY | CFP Past |  | $100 off code: WiMLDSQConNY19|
 | [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2019/conferenceinfo.cfm) | October 3-5 | Seattle, WA | CFP Past |  | |
 | [PyCon Africa](https://africa.pycon.org/speaking/) | August 6-10 | Accra, Ghana | June 1 |  | |
+| [AnacondaCON](https://anacondacon.io/) | April 3-5 | Austin, TX | Past |  | |
+| [Data Council](https://www.datacouncil.ai/call-for-proposals) | Annually in April, July, September, November | SF, Singapore, Barcelona, NYC | Annually 02/01, 06/01, 07/01, 09/01 |  | |
 
 # Conference Travel Funding
 
