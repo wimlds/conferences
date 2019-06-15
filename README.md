@@ -25,6 +25,7 @@
 | [R Finance 2019](http://www.rinfinance.com/) | May 17-18 | Chicago, IL | | | |
 | [Collision 2019](https://collisionconf.com/) | May 20-23 | Toronto, CA | [Rolling?](https://collisionconf.com/speaker-application) | [Anti-Harrassment Policy](https://collisionconf.com/anti-harassment-policy) | |
 | [Symposium on Data Science & Statistics](http://ww2.amstat.org/meetings/sdss/2019/) | May 29 - Jun 1 | Bellevue, WA | ~~[Jan 31, 2019](http://ww2.amstat.org/meetings/sdss/2019/submitanabstract.cfm)~~ | [CoC](http://ww2.amstat.org/meetings/sdss/2019/conductpolicy.cfm) | |
+| [ICML 2019](https://icml.cc) | Jun 9-15 | Long Beach, CA | [Jan 23, 2019](https://icml.cc/Conferences/2019/CallForPapers) | [CoC](https://icml.cc/public/CodeOfConduct)| |
 | [IEEE ICHI 2019](http://www.ieee-ichi.org/) | Jun 10-13 | Beijing, China | [Feb 15, 2019](http://www.ieee-ichi.org/call_for_papers.html) | | |
 | [O'Reilly Velocity](https://conferences.oreilly.com/velocity/vl-ca) | Jun 10-13 | San Jose, CA | ~~[Dec 10, 2018](https://conferences.oreilly.com/velocity/vl-ca/public/cfp/690)~~ | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [Web & Social Media](https://www.icwsm.org/2019/index.php) | Jun 11-14 | Munich, Germany | ~~[Jan 15, 2019](https://www.icwsm.org/2019/submitting/call-for-papers/)~~ | | |
@@ -35,6 +36,10 @@
 | [QCon NYC](https://qconnewyork.com/) | Jun 24-26 | New York, NY |  | [CoC](https://qconnewyork.com/code-conduct-0) | |
 | [QCon](https://qconnewyork.com/?utm_source=usergroup&utm_medium=email&utm_campaign=WiMLDSQConNY19) | June 24-26 | New York, NY | CFP Past |  | $100 off code: WiMLDSQConNY19|
 | [DEEM Workshop](http://deem-workshop.org/#about) | Jun 30 | Amsterdam, NL | [March 11, 2019](http://deem-workshop.org/#about) | | |
+| [Scipy 2019](https://www.scipy2019.scipy.org) | Jul 8-14 | Austin, TX |  | [CoC](https://www.scipy2019.scipy.org/code-of-conduct) | |
+| [AWS Summit NYC](https://aws.amazon.com/events/summits/new-york/) | Jul 11 | New York, NY |  | [CoC](https://aws.amazon.com/codesofconduct/) | |
+| [OSCON 2018](https://conferences.oreilly.com/oscon/oscon-or) | Jul 15-18 | Portland, OR  |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
+| [Assoc for Computational Linguistics](http://www.acl2019.org/EN/index.xhtml) | Jul 28-August 2 | Florence, IT | [March 4, 2019](http://www.acl2019.org/EN/call-for-papers.xhtml) |  | |
 | [PyCon Africa](https://africa.pycon.org/speaking/) | August 6-10 | Accra, Ghana | June 1 |  | |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 23-26 | New York, NY | Jan-March 2019 | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2019/conferenceinfo.cfm) | October 3-5 | Seattle, WA | CFP Past |  | |
