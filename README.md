@@ -11,6 +11,7 @@
 | Event   | Date  | Location | CFP Deadline | Code of Conduct | Note |
 |----|----|----|----|----|----|
 | [AnacondaCON](https://anacondacon.io/) | April 3-5 | Austin, TX | Past |  | |
+| [Google Cloud](https://cloud.withgoogle.com/next18/sf/) | April 9-11 | San Francisco, CA |  | [CoC](https://cloud.withgoogle.com/next18/sf/tos#Event) | |
 | [Strata Data, London](https://conferences.oreilly.com/strata/strata-eu) | April 29 - May 2 | London, UK | CFP Past | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [DockerCon19] | April 30 - May 2 | San Fransisco, CA | | | |
 | [ODSC East](https://odsc.com/boston) | May 1-4| Boston, MA | | | |
@@ -38,9 +39,13 @@
 | [DEEM Workshop](http://deem-workshop.org/#about) | Jun 30 | Amsterdam, NL | [March 11, 2019](http://deem-workshop.org/#about) | | |
 | [Scipy 2019](https://www.scipy2019.scipy.org) | Jul 8-14 | Austin, TX |  | [CoC](https://www.scipy2019.scipy.org/code-of-conduct) | |
 | [AWS Summit NYC](https://aws.amazon.com/events/summits/new-york/) | Jul 11 | New York, NY |  | [CoC](https://aws.amazon.com/codesofconduct/) | |
-| [OSCON 2018](https://conferences.oreilly.com/oscon/oscon-or) | Jul 15-18 | Portland, OR  |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
+| [OSCON 2019](https://conferences.oreilly.com/oscon/oscon-or) | Jul 15-18 | Portland, OR  |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
+| [Amazon Alexa VOICE](https://www.voicesummit.ai) | Jul 22-25 | Newark, NJ |  | [CoC](https://www.voicesummit.ai/code-of-conduct) | |
+| [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2019/) | Jul 27-August 1 | Denver, CO |  | [CoC](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx) | |
 | [Assoc for Computational Linguistics](http://www.acl2019.org/EN/index.xhtml) | Jul 28-August 2 | Florence, IT | [March 4, 2019](http://www.acl2019.org/EN/call-for-papers.xhtml) |  | |
 | [PyCon Africa](https://africa.pycon.org/speaking/) | August 6-10 | Accra, Ghana | June 1 |  | |
+| [Write/Speak/Code](https://www.writespeakcode.com) | August 16-18 | San Francisco, CA |  | [CoC](https://www.writespeakcode.com/index.html#code-of-conduct) | |
+| [ML for Healthcare](http://www.mlforhc.org) | August 8-10 | Ann Arbor, MI | Mars 29, 2019 |  | |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 23-26 | New York, NY | Jan-March 2019 | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2019/conferenceinfo.cfm) | October 3-5 | Seattle, WA | CFP Past |  | |
 | [Data Council](https://www.datacouncil.ai/call-for-proposals) | Annually in April, July, September, November | SF, Singapore, Barcelona, NYC | Annually 02/01, 06/01, 07/01, 09/01 |  | |
