@@ -10,6 +10,7 @@
 
 | Event   | Date  | Location | CFP Deadline | Code of Conduct | Note |
 |----|----|----|----|----|----|
+| [AnacondaCON](https://anacondacon.io/) | April 3-5 | Austin, TX | Past |  | |
 | [Strata Data, London](https://conferences.oreilly.com/strata/strata-eu) | April 29 - May 2 | London, UK | CFP Past | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [DockerCon19] | April 30 - May 2 | San Fransisco, CA | | | |
 | [ODSC East](https://odsc.com/boston) | May 1-4| Boston, MA | | | |
@@ -24,7 +25,6 @@
 | [R Finance 2019](http://www.rinfinance.com/) | May 17-18 | Chicago, IL | | | |
 | [Collision 2019](https://collisionconf.com/) | May 20-23 | Toronto, CA | [Rolling?](https://collisionconf.com/speaker-application) | [Anti-Harrassment Policy](https://collisionconf.com/anti-harassment-policy) | |
 | [Symposium on Data Science & Statistics](http://ww2.amstat.org/meetings/sdss/2019/) | May 29 - Jun 1 | Bellevue, WA | ~~[Jan 31, 2019](http://ww2.amstat.org/meetings/sdss/2019/submitanabstract.cfm)~~ | [CoC](http://ww2.amstat.org/meetings/sdss/2019/conductpolicy.cfm) | |
-| [PyCon Africa](https://africa.pycon.org/speaking/) | August 6-10 | Accra, Ghana | June 1 |  | |
 | [IEEE ICHI 2019](http://www.ieee-ichi.org/) | Jun 10-13 | Beijing, China | [Feb 15, 2019](http://www.ieee-ichi.org/call_for_papers.html) | | |
 | [O'Reilly Velocity](https://conferences.oreilly.com/velocity/vl-ca) | Jun 10-13 | San Jose, CA | ~~[Dec 10, 2018](https://conferences.oreilly.com/velocity/vl-ca/public/cfp/690)~~ | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [Web & Social Media](https://www.icwsm.org/2019/index.php) | Jun 11-14 | Munich, Germany | ~~[Jan 15, 2019](https://www.icwsm.org/2019/submitting/call-for-papers/)~~ | | |
@@ -35,9 +35,9 @@
 | [QCon NYC](https://qconnewyork.com/) | Jun 24-26 | New York, NY |  | [CoC](https://qconnewyork.com/code-conduct-0) | |
 | [QCon](https://qconnewyork.com/?utm_source=usergroup&utm_medium=email&utm_campaign=WiMLDSQConNY19) | June 24-26 | New York, NY | CFP Past |  | $100 off code: WiMLDSQConNY19|
 | [DEEM Workshop](http://deem-workshop.org/#about) | Jun 30 | Amsterdam, NL | [March 11, 2019](http://deem-workshop.org/#about) | | |
+| [PyCon Africa](https://africa.pycon.org/speaking/) | August 6-10 | Accra, Ghana | June 1 |  | |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 23-26 | New York, NY | Jan-March 2019 | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2019/conferenceinfo.cfm) | October 3-5 | Seattle, WA | CFP Past |  | |
-| [AnacondaCON](https://anacondacon.io/) | April 3-5 | Austin, TX | Past |  | |
 | [Data Council](https://www.datacouncil.ai/call-for-proposals) | Annually in April, July, September, November | SF, Singapore, Barcelona, NYC | Annually 02/01, 06/01, 07/01, 09/01 |  | |
 
 # Conference Travel Funding
