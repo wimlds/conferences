@@ -50,7 +50,7 @@
 | [AI NEXTCon](http://ainyc19.xnextcon.com) | Jul 23-26 | New York, NY |  | [CoC](http://ainyc19.xnextcon.com/codeofconduct.html) | |
 | [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2019/) | Jul 27-August 1 | Denver, CO |  | [CoC](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx) | |
 | [Assoc for Computational Linguistics](http://www.acl2019.org/EN/index.xhtml) | Jul 28-August 2 | Florence, Italy | [March 4, 2019](http://www.acl2019.org/EN/call-for-papers.xhtml) |  | |
-| [KDD 2019](https://ai4good.org/feed2019/) | August 4-8 | Anchorage, AK | [May 31](https://www.kdd.org/kdd2019/calls) |  | |
+| [KDD 2019](https://ai4good.org/feed2019/) | August 4-8 | Anchorage, AK | [May 31, 2019](https://www.kdd.org/kdd2019/calls) |  | |
 | [PyCon Africa](https://africa.pycon.org/speaking/) | August 6-10 | Accra, Ghana | June 1 |  | |
 | [ML for Healthcare](http://www.mlforhc.org) | August 8-10 | Ann Arbor, MI | Mars 29, 2019 |  | |
 | [Write/Speak/Code](https://www.writespeakcode.com) | August 16-18 | San Francisco, CA |  | [CoC](https://www.writespeakcode.com/index.html#code-of-conduct) | |
@@ -79,7 +79,7 @@
 | [AI4 Healthcare](https://ai4.io/healthcare/) | Nov 11-12 | New York, NY | [CFP](https://ai4.io/healthcare/callforspeakers/) |[CoC](https://ai4.io/codeofconduct/)  | |
 | [Scalable Computing](http://www.pdsw.org/index.shtml) | Nov 18 | Denver, CO | [Sep 1, 2019](http://www.pdsw.org/index.shtml#cfp) |  | |
 | [AWS re:Invent](https://reinvent.awsevents.com/) | Dec 2-6 | Las Vegas, NV |  |[CoC](https://aws.amazon.com/codesofconduct/?trk=www.google.com)  | |
-| [NeurIPS 2019](https://nips.cc) | Dec 8-14 | Vancouver, Canada |[May 23](https://nips.cc/Conferences/2019/CallForPapers)  |[CoC](https://nips.cc/public/CodeOfConduct)  | |
+| [NeurIPS 2019](https://nips.cc) | Dec 8-14 | Vancouver, Canada |[May 23, 2019](https://nips.cc/Conferences/2019/CallForPapers)  |[CoC](https://nips.cc/public/CodeOfConduct)  | |
 | [Data Council](https://www.datacouncil.ai/call-for-proposals) | Annually in April, July, September, November | SF, Singapore, Barcelona, NYC | Annually 02/01, 06/01, 07/01, 09/01 |  | |
 
 # Conference Travel Funding
