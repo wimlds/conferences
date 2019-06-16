@@ -36,6 +36,7 @@
 | [Deep Learning World](https://www.deeplearningworld.com/) | Jun 16-20 | Las Vegas, NV | | | |
 | [Predictive Analytics World](https://www.predictiveanalyticsworld.com/industry40/2019/) | Jun 16-20 | Las Vegas, NV | ~~[Nov 15, 2018](https://www.predictiveanalyticsworld.com/submit/)~~ | | |
 | [Girls in Tech Catalyst Conference](https://catalystsf.girlsintech.org/) | June 19-20 | San Francisco, CA | CFP Past |  | 15% off code: CATALYSTCOMMUNITY |
+| [Dataiku EGG 2019](https://nyc.egg.dataiku.com) | June 20 | New York, NY |  |  |  |
 | [QCon NYC](https://qconnewyork.com/) | Jun 24-26 | New York, NY |  | [CoC](https://qconnewyork.com/code-conduct-0) | |
 | [QCon](https://qconnewyork.com/?utm_source=usergroup&utm_medium=email&utm_campaign=WiMLDSQConNY19) | June 24-26 | New York, NY | CFP Past |  | $100 off code: WiMLDSQConNY19|
 | [DEEM Workshop](http://deem-workshop.org/#about) | Jun 30 | Amsterdam, NL | [March 11, 2019](http://deem-workshop.org/#about) | | |
@@ -56,10 +57,22 @@
 | [PyCon UK](https://2019.pyconuk.org/) | Sep 13-17 | Cardiff, United Kingdom  | [June 7, 2019](https://2019.pyconuk.org/call-proposals/) | [CoC](https://2019.pyconuk.org/code-conduct/) | |
 | [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) | Sep 15 | New York, NY   | [June 17, 2019](https://data.bloomberglp.com/company/sites/2/2019/05/Data-For-Good-Exchange-2019-Call-for-Papers-Posters-Panels-Workshops.pdf) |  | |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 23-26 | New York, NY | Jan-March 2019 | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
+[PAPIs (Predictive Applications and APIs)](https://www.papis.io/global-2019) | October | Boston, MA |  |[CoC](https://www.papis.io/code-of-conduct)  | |
 | [Grace Hopper Celebration](https://ghc.anitab.org/) | Oct 1-4 | Orlando, FL  | [Mars 6, 2019](https://ghc.anitab.org/2019-speakers/key-dates-deliverables/) |[CoC](https://ghc.anitab.org/code-of-conduct/)  | |
+| [AI Now 2019 Symposium](https://ainowinstitute.org/) | Oct 2 | New York, NY | CFP Past |  | |
 | [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2019/conferenceinfo.cfm) | October 3-5 | Seattle, WA | CFP Past |  | |
 | [Women in Tech Summit (WITS)](https://west.womenintechsummit.net) | Oct 4| Denver, CO |  | |  | |
+| [PyGotham 2019](https://2019.pygotham.org) | Oct 4-5 | New York, NY  | CFP Past |[CoC](https://2019.pygotham.org/about/code-of-conduct/)  | |
+| [PyCon.DE](https://de.pycon.org/) | Oct 9-13 | Karlsruhe, Germany  | [Jun 9, 2019](https://de.pycon.org/call-for-proposals/) |[CoC](https://de.pycon.org/code-of-conduct/)  | |
+|[PyConIE](https://pyconie18.python.ie/)| Oct 12-13 | Dublin, Ireland    | [Jul 31, 2019](http://python.ie/pycon-2019/call-proposals/) |[CoC](http://python.ie/pycon-2019/code-conduct/)  | |
+|[AI World](https://aiworld.com) | Oct 23-25 | Boston, MA    |  | | |
+| [ODSC West](https://odsc.com/california) | Oct 29 - Nov 1 | San Francisco, CA | [Jul 15, 2019](https://odsc.com/california/call-for-speakers-west) |[CoC](https://odsc.com/code-of-conduct)  | |
+| [PyData NYC](https://pydata.org/events.html) | November | New York, NY |  |[CoC](https://pydata.org/code-of-conduct/)  | |
 | [O'Reilly Velocity NYC](https://conferences.oreilly.com/velocity/vl-eu) | Nov 4-7 | Berlin, Germany  | CFP Past |[CoC](https://www.oreilly.com/conferences/code-of-conduct.html)  | |
+| [MLConf 2019](https://mlconf.com) | Nov 8 | San Francisco, CA |  |[CoC (at the end of the page)](https://mlconf.com)  | |
+| [Scalable Computing](http://www.pdsw.org/index.shtml) | Nov 18 | Denver, CO | [Sep 1, 2019](http://www.pdsw.org/index.shtml#cfp) |  | |
+| [AWS re:Invent](https://reinvent.awsevents.com/) | Dec 2-6 | Las Vegas, NV |  |[CoC](https://aws.amazon.com/codesofconduct/?trk=www.google.com)  | |
+| [NeurIPS 2019](https://nips.cc) | Dec 8-14 | Vancouver, Canada |[May 23](https://nips.cc/Conferences/2019/CallForPapers)  |[CoC](https://nips.cc/public/CodeOfConduct)  | |
 | [Data Council](https://www.datacouncil.ai/call-for-proposals) | Annually in April, July, September, November | SF, Singapore, Barcelona, NYC | Annually 02/01, 06/01, 07/01, 09/01 |  | |
 
 # Conference Travel Funding
