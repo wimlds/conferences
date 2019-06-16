@@ -30,6 +30,8 @@
 | [IEEE ICHI 2019](http://www.ieee-ichi.org/) | Jun 10-13 | Beijing, China | [Feb 15, 2019](http://www.ieee-ichi.org/call_for_papers.html) | | |
 | [O'Reilly Velocity](https://conferences.oreilly.com/velocity/vl-ca) | Jun 10-13 | San Jose, CA | ~~[Dec 10, 2018](https://conferences.oreilly.com/velocity/vl-ca/public/cfp/690)~~ | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [Web & Social Media](https://www.icwsm.org/2019/index.php) | Jun 11-14 | Munich, Germany | ~~[Jan 15, 2019](https://www.icwsm.org/2019/submitting/call-for-papers/)~~ | | |
+| [Data Science Salon NY](https://datascience.salon/newyork/) | Jun 13 | New York, NY |  | | |
+| [Women in Computer Vision](https://wicvworkshop.github.io/CVPR2019/index.html) | Jun 16 | Long Beach, CA | [March 17, 2019](https://wicvworkshop.github.io/CVPR2019/participation.html) | | |
 | Data Science Salon, NYC | Jun 13 | New York, NY | [Rolling?](https://formulatedby.typeform.com/to/cNIXwj) | | |
 | [Deep Learning World](https://www.deeplearningworld.com/) | Jun 16-20 | Las Vegas, NV | | | |
 | [Predictive Analytics World](https://www.predictiveanalyticsworld.com/industry40/2019/) | Jun 16-20 | Las Vegas, NV | ~~[Nov 15, 2018](https://www.predictiveanalyticsworld.com/submit/)~~ | | |
@@ -42,14 +44,21 @@
 | [OSCON 2019](https://conferences.oreilly.com/oscon/oscon-or) | Jul 15-18 | Portland, OR  |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [Amazon Alexa VOICE](https://www.voicesummit.ai) | Jul 22-25 | Newark, NJ |  | [CoC](https://www.voicesummit.ai/code-of-conduct) | |
 | [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2019/) | Jul 27-August 1 | Denver, CO |  | [CoC](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx) | |
-| [Assoc for Computational Linguistics](http://www.acl2019.org/EN/index.xhtml) | Jul 28-August 2 | Florence, IT | [March 4, 2019](http://www.acl2019.org/EN/call-for-papers.xhtml) |  | |
+| [Assoc for Computational Linguistics](http://www.acl2019.org/EN/index.xhtml) | Jul 28-August 2 | Florence, Italy | [March 4, 2019](http://www.acl2019.org/EN/call-for-papers.xhtml) |  | |
 | [KDD 2019](https://ai4good.org/feed2019/) | August 4-8 | Anchorage, AK | [CFP](https://www.kdd.org/kdd2019/calls) |  | |
 | [PyCon Africa](https://africa.pycon.org/speaking/) | August 6-10 | Accra, Ghana | June 1 |  | |
 | [ML for Healthcare](http://www.mlforhc.org) | August 8-10 | Ann Arbor, MI | Mars 29, 2019 |  | |
 | [Write/Speak/Code](https://www.writespeakcode.com) | August 16-18 | San Francisco, CA |  | [CoC](https://www.writespeakcode.com/index.html#code-of-conduct) | |
 | [AI 4 Finance](https://ai4.io/finance/) | August 21-22 | New York, NY |  |  [CoC](https://ai4.io/codeofconduct/)| |
+| [EuroSciPy](https://www.euroscipy.org/2019/) | Sep 2-6 | Bilbao, Spain| [April 28, 2019](https://pretalx.com/euroscipy-2019/) |  [CoC](https://www.euroscipy.org/2019/code_of_conduct.html)| |
+| [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 9-12 | San Jose, CA |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
+| [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2019/) | Sep 11-13 | New York, NY |  |  | |
+| [PyCon UK](https://2019.pyconuk.org/) | Sep 13-17 | Cardiff, United Kingdom  | [June 7, 2019](https://2019.pyconuk.org/call-proposals/) | [CoC](https://2019.pyconuk.org/code-conduct/) | |
+| [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) | Sep 15 | New York, NY   | [June 17, 2019](https://data.bloomberglp.com/company/sites/2/2019/05/Data-For-Good-Exchange-2019-Call-for-Papers-Posters-Panels-Workshops.pdf) |  | |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 23-26 | New York, NY | Jan-March 2019 | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
+| [Grace Hopper Celebration](https://ghc.anitab.org/) | Oct 1-4 | Orlando, FL  | [Mars 6, 2019](https://ghc.anitab.org/2019-speakers/key-dates-deliverables/) |[CoC](https://ghc.anitab.org/code-of-conduct/)  | |
 | [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2019/conferenceinfo.cfm) | October 3-5 | Seattle, WA | CFP Past |  | |
+| [Women in Tech Summit (WITS)](https://west.womenintechsummit.net) | Oct 4| Denver, CO |  | |  | |
 | [Data Council](https://www.datacouncil.ai/call-for-proposals) | Annually in April, July, September, November | SF, Singapore, Barcelona, NYC | Annually 02/01, 06/01, 07/01, 09/01 |  | |
 
 # Conference Travel Funding
