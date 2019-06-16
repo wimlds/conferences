@@ -46,7 +46,7 @@
 | [Amazon Alexa VOICE](https://www.voicesummit.ai) | Jul 22-25 | Newark, NJ |  | [CoC](https://www.voicesummit.ai/code-of-conduct) | |
 | [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2019/) | Jul 27-August 1 | Denver, CO |  | [CoC](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx) | |
 | [Assoc for Computational Linguistics](http://www.acl2019.org/EN/index.xhtml) | Jul 28-August 2 | Florence, Italy | [March 4, 2019](http://www.acl2019.org/EN/call-for-papers.xhtml) |  | |
-| [KDD 2019](https://ai4good.org/feed2019/) | August 4-8 | Anchorage, AK | [CFP](https://www.kdd.org/kdd2019/calls) |  | |
+| [KDD 2019](https://ai4good.org/feed2019/) | August 4-8 | Anchorage, AK | [May 31](https://www.kdd.org/kdd2019/calls) |  | |
 | [PyCon Africa](https://africa.pycon.org/speaking/) | August 6-10 | Accra, Ghana | June 1 |  | |
 | [ML for Healthcare](http://www.mlforhc.org) | August 8-10 | Ann Arbor, MI | Mars 29, 2019 |  | |
 | [Write/Speak/Code](https://www.writespeakcode.com) | August 16-18 | San Francisco, CA |  | [CoC](https://www.writespeakcode.com/index.html#code-of-conduct) | |
