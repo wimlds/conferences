@@ -59,6 +59,7 @@
 | [Grace Hopper Celebration](https://ghc.anitab.org/) | Oct 1-4 | Orlando, FL  | [Mars 6, 2019](https://ghc.anitab.org/2019-speakers/key-dates-deliverables/) |[CoC](https://ghc.anitab.org/code-of-conduct/)  | |
 | [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2019/conferenceinfo.cfm) | October 3-5 | Seattle, WA | CFP Past |  | |
 | [Women in Tech Summit (WITS)](https://west.womenintechsummit.net) | Oct 4| Denver, CO |  | |  | |
+| [O'Reilly Velocity NYC](https://conferences.oreilly.com/velocity/vl-eu) | Nov 4-7 | Berlin, Germany  | CFP Past |[CoC](https://www.oreilly.com/conferences/code-of-conduct.html)  | |
 | [Data Council](https://www.datacouncil.ai/call-for-proposals) | Annually in April, July, September, November | SF, Singapore, Barcelona, NYC | Annually 02/01, 06/01, 07/01, 09/01 |  | |
 
 # Conference Travel Funding
