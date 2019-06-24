@@ -58,6 +58,16 @@
 | [NeurIPS 2019](https://nips.cc) | Dec 8-14 | Vancouver, Canada |[May 23, 2019](https://nips.cc/Conferences/2019/CallForPapers)  |[CoC](https://nips.cc/public/CodeOfConduct)  | |
 | [Data Council](https://www.datacouncil.ai/call-for-proposals) | Annually in April, July, September, November | SF, Singapore, Barcelona, NYC | Annually 02/01, 06/01, 07/01, 09/01 |  | |
 
+---
+
+## 2020
+
+| Event   | Date  | Location | CFP Deadline | Code of Conduct | Note |
+|----|----|----|----|----|----|
+| [Ai4 Cybersecurity Conference](https://ai4.io/cybersecurity/) | Apr 30 | New York, NY |  |  [CoC](https://ai4.io/codeofconduct/)| |
+
+
+
 # Conference Travel Funding
 
 There are some options for funding to attend conferences if you are not able to secure funding or afford the travel on your own.
