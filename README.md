@@ -47,6 +47,7 @@
 | [DASH](https://www.dashcon.io) | Jul 16-17 | New York, NY  |  | [CoC](https://www.dashcon.io/coc/) | |
 | [codeland](http://codelandconf.com) | Jul 22 | New York, NY |  | [CoC](http://codelandconf.com/coc/) | |
 | [Amazon Alexa VOICE](https://www.voicesummit.ai) | Jul 22-25 | Newark, NJ |  | [CoC](https://www.voicesummit.ai/code-of-conduct) | |
+| [JuliaCon](https://juliacon.org/2019/) | Jul 22-26 | Baltimore, MD| [March 16, 2019](https://pretalx.com/juliacon2019/) |  [CoC (in the middle of the page)](https://juliacon.org/2019/)| |
 | [AI NEXTCon](http://ainyc19.xnextcon.com) | Jul 23-26 | New York, NY |  | [CoC](http://ainyc19.xnextcon.com/codeofconduct.html) | |
 | [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2019/) | Jul 27-August 1 | Denver, CO |  | [CoC](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx) | |
 | [Assoc for Computational Linguistics](http://www.acl2019.org/EN/index.xhtml) | Jul 28-August 2 | Florence, Italy | [March 4, 2019](http://www.acl2019.org/EN/call-for-papers.xhtml) |  | |
@@ -54,6 +55,7 @@
 | [PyCon Africa](https://africa.pycon.org/speaking/) | August 6-10 | Accra, Ghana | June 1 |  | |
 | [ML for Healthcare](http://www.mlforhc.org) | August 8-10 | Ann Arbor, MI | Mars 29, 2019 |  | |
 | [Write/Speak/Code](https://www.writespeakcode.com) | August 16-18 | San Francisco, CA |  | [CoC](https://www.writespeakcode.com/index.html#code-of-conduct) | |
+| [StanCon](https://mc-stan.org/events/stancon2019Cambridge/) | Aug 20-23 | Cambridge, UK| [CFP Past except for Posters: August 15, 2019](https://mc-stan.org/events/stancon2019Cambridge/) |  | |
 | [AI 4 Finance](https://ai4.io/finance/) | August 21-22 | New York, NY |  |  [CoC](https://ai4.io/codeofconduct/)| |
 | [EuroSciPy](https://www.euroscipy.org/2019/) | Sep 2-6 | Bilbao, Spain| [April 28, 2019](https://pretalx.com/euroscipy-2019/) |  [CoC](https://www.euroscipy.org/2019/code_of_conduct.html)| |
 | [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 9-12 | San Jose, CA |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
@@ -68,6 +70,7 @@
 | [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2019/conferenceinfo.cfm) | October 3-5 | Seattle, WA | CFP Past |  | |
 | [Women in Tech Summit (WITS)](https://west.womenintechsummit.net) | Oct 4| Denver, CO |  | |  | |
 | [PyGotham 2019](https://2019.pygotham.org) | Oct 4-5 | New York, NY  | CFP Past |[CoC](https://2019.pygotham.org/about/code-of-conduct/)  | |
+| [AI NEXTCon](http://www.xnextcon.com) | Oct 8-11 | San Francisco, CA |  |  | |
 | [Neo4j Online Developer Expo & Summit](https://neo4j.com/online-summit/) | Oct 9 | Online  | [Jul15, 2019](https://www.papercall.io/signin) |  | |
 | [PyCon.DE](https://de.pycon.org/) | Oct 9-13 | Karlsruhe, Germany  | [Jun 9, 2019](https://de.pycon.org/call-for-proposals/) |[CoC](https://de.pycon.org/code-of-conduct/)  | |
 |[PyConIE](https://pyconie18.python.ie/)| Oct 12-13 | Dublin, Ireland    | [Jul 31, 2019](http://python.ie/pycon-2019/call-proposals/) |[CoC](http://python.ie/pycon-2019/code-conduct/)  | |
@@ -75,6 +78,7 @@
 |[AI World](https://aiworld.com) | Oct 23-25 | Boston, MA    |  | | |
 | [ODSC West](https://odsc.com/california) | Oct 29 - Nov 1 | San Francisco, CA | [Jul 15, 2019](https://odsc.com/california/call-for-speakers-west) |[CoC](https://odsc.com/code-of-conduct)  | |
 | [PyData NYC](https://pydata.org/events.html) | November | New York, NY |  |[CoC](https://pydata.org/code-of-conduct/)  | |
+| [Hopperx1](https://community.anitab.org/event/hopperx1-new-york-city/) | Nov 4 | New York, NY | [Jul 3, 2019](https://ssl.linklings.net/conferences/HopperNewYork/) |  | |
 | [O'Reilly Velocity NYC](https://conferences.oreilly.com/velocity/vl-eu) | Nov 4-7 | Berlin, Germany  | CFP Past |[CoC](https://www.oreilly.com/conferences/code-of-conduct.html)  | |
 | [MLConf 2019](https://mlconf.com) | Nov 8 | San Francisco, CA |  |[CoC (at the end of the page)](https://mlconf.com)  | |
 | [AI4 Healthcare](https://ai4.io/healthcare/) | Nov 11-12 | New York, NY | [CFP](https://ai4.io/healthcare/callforspeakers/) |[CoC](https://ai4.io/codeofconduct/)  | |
