@@ -68,6 +68,7 @@
 | [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2019/conferenceinfo.cfm) | October 3-5 | Seattle, WA | CFP Past |  | |
 | [Women in Tech Summit (WITS)](https://west.womenintechsummit.net) | Oct 4| Denver, CO |  | |  | |
 | [PyGotham 2019](https://2019.pygotham.org) | Oct 4-5 | New York, NY  | CFP Past |[CoC](https://2019.pygotham.org/about/code-of-conduct/)  | |
+| [Neo4j Online Developer Expo & Summit](https://neo4j.com/online-summit/) | Oct 9 | Online  | [Jul15, 2019](https://www.papercall.io/signin) |  | |
 | [PyCon.DE](https://de.pycon.org/) | Oct 9-13 | Karlsruhe, Germany  | [Jun 9, 2019](https://de.pycon.org/call-for-proposals/) |[CoC](https://de.pycon.org/code-of-conduct/)  | |
 |[PyConIE](https://pyconie18.python.ie/)| Oct 12-13 | Dublin, Ireland    | [Jul 31, 2019](http://python.ie/pycon-2019/call-proposals/) |[CoC](http://python.ie/pycon-2019/code-conduct/)  | |
 |[Space Apps NYC](https://spaceapps.nyc)| Oct 18-20 | New York, NY    |  |[CoC](https://drive.google.com/file/d/1tDvE1i8iMoGh1fOhMsfiWDzhl-NXCmyc/view?usp=drive_open)  | |
