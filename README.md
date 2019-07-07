@@ -57,6 +57,8 @@
 | [AWS re:Invent](https://reinvent.awsevents.com/) | Dec 2-6 | Las Vegas, NV |  |[CoC](https://aws.amazon.com/codesofconduct/?trk=www.google.com)  | |
 | [NeurIPS 2019](https://nips.cc) | Dec 8-14 | Vancouver, Canada |[May 23, 2019](https://nips.cc/Conferences/2019/CallForPapers)  |[CoC](https://nips.cc/public/CodeOfConduct)  | |
 | [Data Council](https://www.datacouncil.ai/call-for-proposals) | Annually in April, July, September, November | SF, Singapore, Barcelona, NYC | Annually 02/01, 06/01, 07/01, 09/01 |  | |
+| [PostgresOpen](https://2019.postgresopen.org/callforpapers/) | Sep 11-14 | Orlando, FL | July 7 | [CoC](https://2019.postgresopen.org/policies/) | |
+
 
 ---
 
