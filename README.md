@@ -67,6 +67,7 @@
 | Event   | Date  | Location | CFP Deadline | Code of Conduct | Note |
 |----|----|----|----|----|----|
 | [Ai4 Cybersecurity Conference](https://ai4.io/cybersecurity/) | Apr 30 | New York, NY |  |  [CoC](https://ai4.io/codeofconduct/)| |
+| [O'Reilly Software Architecture Conference](https://oreil.ly/31HhqGF) | February 22–26, 2020 | New York, NY | Aug 20, 2019 |  [CoC](https://www.oreilly.com/conferences/code-of-conduct.html)| |
 
 
 ---
