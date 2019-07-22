@@ -59,7 +59,7 @@
 | [Data Council](https://www.datacouncil.ai/call-for-proposals) | Annually in April, July, September, November | SF, Singapore, Barcelona, NYC | Annually 02/01, 06/01, 07/01, 09/01 |  | |
 | [PostgresOpen](https://2019.postgresopen.org/callforpapers/) | Sep 11-14 | Orlando, FL | July 7 | [CoC](https://2019.postgresopen.org/policies/) | |
 | [Natural Language, Dialog and Speech (NDS) Symposium](https://www.nyas.org/events/2019/natural-language-dialog-and-speech-nds-symposium/) | Nov 22 | New York, NY | Sep 16 | | |
-| [2019 Big Data in Agriculture Convention (Hyderabad, India)](https://www.nyas.org/events/2019/natural-language-dialog-and-speech-nds-symposium/) | Nov 16-18 | Hyderabad, India | unclear, invite only probably | | |
+| [2019 Big Data in Agriculture Convention (Hyderabad, India)](https://bigdata.cgiar.org/hyderabad-2019/) | Oct 16-18 | Hyderabad, India | unclear, invite only probably | | |
 
 
 ---
