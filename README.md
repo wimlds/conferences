@@ -72,6 +72,7 @@
 |----|----|----|----|----|----|
 | [Ai4 Cybersecurity Conference](https://ai4.io/cybersecurity/) | Apr 30 | New York, NY |  |  [CoC](https://ai4.io/codeofconduct/)| |
 | [O'Reilly Software Architecture Conference](https://bigdata.cgiar.org/hyderabad-2019/) | February 22–26, 2020 | New York, NY | Aug 20, 2019 |  [CoC](https://www.oreilly.com/conferences/code-of-conduct.html)| |
+| [Women in Analytics Conference (WIA)](https://womeninanalytics.com) | June 3-5 | Columbus, OH |[Jan 31st, 2020](https://womeninanalytics.com/call-for-speakers/) | [CoC](https://womeninanalytics.com/about/code-of-conduct/) | |
 
 
 ---
