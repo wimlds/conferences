@@ -60,6 +60,8 @@
 | [PostgresOpen](https://2019.postgresopen.org/callforpapers/) | Sep 11-14 | Orlando, FL | July 7 | [CoC](https://2019.postgresopen.org/policies/) | |
 | [Natural Language, Dialog and Speech (NDS) Symposium](https://www.nyas.org/events/2019/natural-language-dialog-and-speech-nds-symposium/) | Nov 22 | New York, NY | Sep 16 | | |
 | [2019 Big Data in Agriculture Convention (Hyderabad, India)](https://bigdata.cgiar.org/hyderabad-2019/) | Oct 16-18 | Hyderabad, India | unclear, invite only probably | | |
+| [Women Who Code](https://www.womenwhocode.com/events) | multiple dates | multiple locations, some TBD e.g. San Francisco, NYC | depends on the conference, see [here](https://docs.google.com/forms/d/e/1FAIpQLSfgSH98xsAB3c1wt3NiSIldxWKylryllGBzGv6AZox3mXHE-w/viewform) for details | | no travel stipend provided |
+
 
 
 ---
