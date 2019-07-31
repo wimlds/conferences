@@ -61,7 +61,7 @@
 | [Natural Language, Dialog and Speech (NDS) Symposium](https://www.nyas.org/events/2019/natural-language-dialog-and-speech-nds-symposium/) | Nov 22 | New York, NY | Sep 16 | | |
 | [2019 Big Data in Agriculture Convention (Hyderabad, India)](https://bigdata.cgiar.org/hyderabad-2019/) | Oct 16-18 | Hyderabad, India | unclear, invite only probably | | |
 | [Women Who Code](https://www.womenwhocode.com/events) | multiple dates | multiple locations, some TBD e.g. San Francisco, NYC | depends on the conference, see [here](https://docs.google.com/forms/d/e/1FAIpQLSfgSH98xsAB3c1wt3NiSIldxWKylryllGBzGv6AZox3mXHE-w/viewform) for details | | no travel stipend provided |
-| [Google Developers ML Summit '19](https://www.womenwhocode.com/events) | Aug 28, Sep 18, Oct 2, Nov14 | Cambridge, MA, Seattle, Pittsburgh, Los Angeles | unclear, see the [CFP form](https://docs.google.com/forms/d/e/1FAIpQLSe7P8tlfuEwloC9mUgmK8nM-3Naqhv1SIibOOXUjfOO--pdQQ/viewform) for submission details | |  |
+| [Google Developers ML Summit '19](https://events.withgoogle.com/mlsummit19/) | Aug 28, Sep 18, Oct 2, Nov14 | Cambridge, MA, Seattle, Pittsburgh, Los Angeles | unclear, see the [CFP form](https://docs.google.com/forms/d/e/1FAIpQLSe7P8tlfuEwloC9mUgmK8nM-3Naqhv1SIibOOXUjfOO--pdQQ/viewform) for submission details | |  |
 
 
 
