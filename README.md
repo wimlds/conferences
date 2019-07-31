@@ -40,7 +40,7 @@
 | [AI Now 2019 Symposium](https://ainowinstitute.org/) | Oct 2 | New York, NY | CFP Past |  | |
 | [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2019/conferenceinfo.cfm) | October 3-5 | Seattle, WA | CFP Past |  | |
 | [Women in Tech Summit (WITS)](https://west.womenintechsummit.net) | Oct 4| Denver, CO |  | |  | |
-| [PyGotham 2019](https://2019.pygotham.org) | Oct 4-5 | New York, NY  | CFP Past |[CoC](https://2019.pygotham.org/about/code-of-conduct/)  | [diversity scholarships](https://2018.pygotham.org/about/diversity/), [20% off registration](https://2019.pygotham.org/registration/)|
+| [PyGotham 2019](https://2019.pygotham.org) | Oct 4-5 | New York, NY  | CFP Past |[CoC](https://2019.pygotham.org/about/code-of-conduct/)  | [diversity scholarships](https://2018.pygotham.org/about/diversity/), [20% off registration](https://www.eventbrite.com/e/pygotham-2019-tickets-59610423381?discount=pyladies-YFRURT#tickets)|
 | [AI NEXTCon](http://www.xnextcon.com) | Oct 8-11 | San Francisco, CA |  |  | |
 | [Neo4j Online Developer Expo & Summit](https://neo4j.com/online-summit/) | Oct 9 | Online  | [Jul15, 2019](https://www.papercall.io/signin) |  | |
 | [PyCon.DE](https://de.pycon.org/) | Oct 9-13 | Karlsruhe, Germany  | [Jun 9, 2019](https://de.pycon.org/call-for-proposals/) |[CoC](https://de.pycon.org/code-of-conduct/)  | |
