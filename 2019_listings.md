@@ -56,3 +56,14 @@
 | [Dataiku EGG 2019](https://nyc.egg.dataiku.com) | June 20 | New York, NY |  |  |  |
 | [AI4 Retail](https://ai4.io/retail/) | Jun 24-25 | New York, NY |   | [CoC](https://ai4.io/codeofconduct/) | |
 | [QCon](https://qconnewyork.com/?utm_source=usergroup&utm_medium=email&utm_campaign=WiMLDSQConNY19) | June 24-26 | New York, NY | CFP Past |[CoC](https://qconnewyork.com/code-conduct-0)  | $100 off code: WiMLDSQConNY19|
+| [ODSC NY](https://odsc.com/nyc) | June 28-29 | New York, NY |  | [CoC](https://odsc.com/nyc/nyc-info) |  |
+| [DEEM Workshop](http://deem-workshop.org/#about) | Jun 30 | Amsterdam, NL | [March 11, 2019](http://deem-workshop.org/#about) | | |
+| [Scipy 2019](https://www.scipy2019.scipy.org) | Jul 8-14 | Austin, TX |  | [CoC](https://www.scipy2019.scipy.org/code-of-conduct) | |
+| [AWS Summit NYC](https://aws.amazon.com/events/summits/new-york/) | Jul 11 | New York, NY |  | [CoC](https://aws.amazon.com/codesofconduct/) | |
+| [OSCON 2019](https://conferences.oreilly.com/oscon/oscon-or) | Jul 15-18 | Portland, OR  |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
+| [DASH](https://www.dashcon.io) | Jul 16-17 | New York, NY  |  | [CoC](https://www.dashcon.io/coc/) | |
+| [codeland](http://codelandconf.com) | Jul 22 | New York, NY |  | [CoC](http://codelandconf.com/coc/) | |
+| [Amazon Alexa VOICE](https://www.voicesummit.ai) | Jul 22-25 | Newark, NJ |  | [CoC](https://www.voicesummit.ai/code-of-conduct) | |
+| [JuliaCon](https://juliacon.org/2019/) | Jul 22-26 | Baltimore, MD| [March 16, 2019](https://pretalx.com/juliacon2019/) |  [CoC (in the middle of the page)](https://juliacon.org/2019/)| |
+| [AI NEXTCon](http://ainyc19.xnextcon.com) | Jul 23-26 | New York, NY |  | [CoC](http://ainyc19.xnextcon.com/codeofconduct.html) | |
+| [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2019/) | Jul 27-August 1 | Denver, CO |  | [CoC](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx) | |
