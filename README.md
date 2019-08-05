@@ -22,6 +22,7 @@
 | [EuroSciPy](https://www.euroscipy.org/2019/) | Sep 2-6 | Bilbao, Spain| [April 28, 2019](https://pretalx.com/euroscipy-2019/) |  [CoC](https://www.euroscipy.org/2019/code_of_conduct.html)| |
 | [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 9-12 | San Jose, CA |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2019/) | Sep 11-13 | New York, NY |  |  | |
+| [PostgresOpen](https://2019.postgresopen.org/callforpapers/) | Sep 11-14 | Orlando, FL | July 7 | [CoC](https://2019.postgresopen.org/policies/) | |
 | [PyCon UK](https://2019.pyconuk.org/) | Sep 13-17 | Cardiff, United Kingdom  | [June 7, 2019](https://2019.pyconuk.org/call-proposals/) | [CoC](https://2019.pyconuk.org/code-conduct/) | |
 | [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) | Sep 15 | New York, NY   | [June 17, 2019](https://data.bloomberglp.com/company/sites/2/2019/05/Data-For-Good-Exchange-2019-Call-for-Papers-Posters-Panels-Workshops.pdf) |  | |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 23-26 | New York, NY | Jan-March 2019 | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
@@ -36,6 +37,7 @@
 | [Neo4j Online Developer Expo & Summit](https://neo4j.com/online-summit/) | Oct 9 | Online  | [Jul15, 2019](https://www.papercall.io/signin) |  | |
 | [PyCon.DE](https://de.pycon.org/) | Oct 9-13 | Karlsruhe, Germany  | [Jun 9, 2019](https://de.pycon.org/call-for-proposals/) |[CoC](https://de.pycon.org/code-of-conduct/)  | |
 |[PyConIE](https://pyconie18.python.ie/)| Oct 12-13 | Dublin, Ireland    | [Jul 31, 2019](http://python.ie/pycon-2019/call-proposals/) |[CoC](http://python.ie/pycon-2019/code-conduct/)  | |
+| [2019 Big Data in Agriculture Convention (Hyderabad, India)](https://bigdata.cgiar.org/hyderabad-2019/) | Oct 16-18 | Hyderabad, India | unclear, invite only probably | | |
 |[Space Apps NYC](https://spaceapps.nyc)| Oct 18-20 | New York, NY    |  |[CoC](https://drive.google.com/file/d/1tDvE1i8iMoGh1fOhMsfiWDzhl-NXCmyc/view?usp=drive_open)  | |
 |[AI World](https://aiworld.com) | Oct 23-25 | Boston, MA    |  | | |
 | [O'Reilly Tensorflow World](https://conferences.oreilly.com/tensorflow/tf-ca) | Oct 28-31 | Santa Clara, CA |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | Save 20% w/code UGWMLDS |
@@ -46,12 +48,10 @@
 | [MLConf 2019](https://mlconf.com) | Nov 8 | San Francisco, CA |  |[CoC (at the end of the page)](https://mlconf.com)  | |
 | [AI4 Healthcare](https://ai4.io/healthcare/) | Nov 11-12 | New York, NY | [CFP](https://ai4.io/healthcare/callforspeakers/) |[CoC](https://ai4.io/codeofconduct/)  | |
 | [Scalable Computing](http://www.pdsw.org/index.shtml) | Nov 18 | Denver, CO | [Sep 1, 2019](http://www.pdsw.org/index.shtml#cfp) |  | |
+| [Natural Language, Dialog and Speech (NDS) Symposium](https://www.nyas.org/events/2019/natural-language-dialog-and-speech-nds-symposium/) | Nov 22 | New York, NY | Sep 16 | | |
 | [AWS re:Invent](https://reinvent.awsevents.com/) | Dec 2-6 | Las Vegas, NV |  |[CoC](https://aws.amazon.com/codesofconduct/?trk=www.google.com)  | |
 | [NeurIPS 2019](https://nips.cc) | Dec 8-14 | Vancouver, Canada |[May 23, 2019](https://nips.cc/Conferences/2019/CallForPapers)  |[CoC](https://nips.cc/public/CodeOfConduct)  | |
 | [Data Council](https://www.datacouncil.ai/call-for-proposals) | Annually in April, July, September, November | SF, Singapore, Barcelona, NYC | Annually 02/01, 06/01, 07/01, 09/01 |  | |
-| [PostgresOpen](https://2019.postgresopen.org/callforpapers/) | Sep 11-14 | Orlando, FL | July 7 | [CoC](https://2019.postgresopen.org/policies/) | |
-| [Natural Language, Dialog and Speech (NDS) Symposium](https://www.nyas.org/events/2019/natural-language-dialog-and-speech-nds-symposium/) | Nov 22 | New York, NY | Sep 16 | | |
-| [2019 Big Data in Agriculture Convention (Hyderabad, India)](https://bigdata.cgiar.org/hyderabad-2019/) | Oct 16-18 | Hyderabad, India | unclear, invite only probably | | |
 | [Women Who Code](https://www.womenwhocode.com/events) | multiple dates | multiple locations, some TBD e.g. San Francisco, NYC | depends on the conference, see [here](https://docs.google.com/forms/d/e/1FAIpQLSfgSH98xsAB3c1wt3NiSIldxWKylryllGBzGv6AZox3mXHE-w/viewform) for details | | no travel stipend provided |
 | [Google Developers ML Summit '19](https://events.withgoogle.com/mlsummit19/) | Aug 28, Sep 18, Oct 2, Nov14 | Cambridge, MA, Seattle, Pittsburgh, Los Angeles | unclear, see the [CFP form](https://docs.google.com/forms/d/e/1FAIpQLSe7P8tlfuEwloC9mUgmK8nM-3Naqhv1SIibOOXUjfOO--pdQQ/viewform) for submission details | |  |
 
