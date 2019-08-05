@@ -37,7 +37,7 @@
 |[Space Apps NYC](https://spaceapps.nyc)| Oct 18-20 | New York, NY    |  |[CoC](https://drive.google.com/file/d/1tDvE1i8iMoGh1fOhMsfiWDzhl-NXCmyc/view?usp=drive_open)  | |
 |[AI World](https://aiworld.com) | Oct 23-25 | Boston, MA    |  | | |
 | [ODSC West](https://odsc.com/california) | Oct 29 - Nov 1 | San Francisco, CA | [Jul 15, 2019](https://odsc.com/california/call-for-speakers-west) |[CoC](https://odsc.com/code-of-conduct)  | |
-| [PyData NYC](https://pydata.org/events.html) | November | New York, NY |  |[CoC](https://pydata.org/code-of-conduct/)  | |
+| [PyData NYC](https://pydata.org/events.html) | November | New York, NY | [Aug 31](https://pydata.org/nyc2019/cfp/) |[CoC](https://pydata.org/code-of-conduct/)  | |
 | [Hopperx1](https://community.anitab.org/event/hopperx1-new-york-city/) | Nov 4 | New York, NY | [Jul 3, 2019](https://ssl.linklings.net/conferences/HopperNewYork/) |  | |
 | [O'Reilly Velocity NYC](https://conferences.oreilly.com/velocity/vl-eu) | Nov 4-7 | Berlin, Germany  | CFP Past |[CoC](https://www.oreilly.com/conferences/code-of-conduct.html)  | |
 | [MLConf 2019](https://mlconf.com) | Nov 8 | San Francisco, CA |  |[CoC (at the end of the page)](https://mlconf.com)  | |
