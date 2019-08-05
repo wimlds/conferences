@@ -67,3 +67,7 @@
 | [JuliaCon](https://juliacon.org/2019/) | Jul 22-26 | Baltimore, MD| [March 16, 2019](https://pretalx.com/juliacon2019/) |  [CoC (in the middle of the page)](https://juliacon.org/2019/)| |
 | [AI NEXTCon](http://ainyc19.xnextcon.com) | Jul 23-26 | New York, NY |  | [CoC](http://ainyc19.xnextcon.com/codeofconduct.html) | |
 | [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2019/) | Jul 27-August 1 | Denver, CO |  | [CoC](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx) | |
+| [Halfstack](https://halfstackconf.com/newyork/) | Aug 23 | New York, NY | CFP Past | [CoC](https://halfstackconf.com/newyork/code-of-conduct/) | |
+| [ML Summit](https://events.withgoogle.com/mlsummit19/) | Aug 28 | Cambridge, MA | [Aug 28](https://docs.google.com/forms/d/e/1FAIpQLSe7P8tlfuEwloC9mUgmK8nM-3Naqhv1SIibOOXUjfOO--pdQQ/viewform) |  | |
+| [aiworld](https://aiworld.com) | Oct 23-25 | Boston, MA |  |  | |
+| [O'Reilly Tensorflow World](https://conferences.oreilly.com/tensorflow/tf-ca) | Oct 28-31 | Santa Clara, CA |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | Save 20% w/code UGWMLDS |
