@@ -17,6 +17,8 @@
 | [Write/Speak/Code](https://www.writespeakcode.com) | August 16-18 | San Francisco, CA |  | [CoC](https://www.writespeakcode.com/index.html#code-of-conduct) | |
 | [StanCon](https://mc-stan.org/events/stancon2019Cambridge/) | Aug 20-23 | Cambridge, UK| [CFP Past except for Posters: August 15, 2019](https://mc-stan.org/events/stancon2019Cambridge/) |  | |
 | [AI 4 Finance](https://ai4.io/finance/) | August 21-22 | New York, NY |  |  [CoC](https://ai4.io/codeofconduct/)| |
+| [Halfstack](https://halfstackconf.com/newyork/) | Aug 23 | New York, NY | CFP Past | [CoC](https://halfstackconf.com/newyork/code-of-conduct/) | |
+| [ML Summit](https://events.withgoogle.com/mlsummit19/) | Aug 28 | Cambridge, MA | [Aug 28](https://docs.google.com/forms/d/e/1FAIpQLSe7P8tlfuEwloC9mUgmK8nM-3Naqhv1SIibOOXUjfOO--pdQQ/viewform) |  | |
 | [EuroSciPy](https://www.euroscipy.org/2019/) | Sep 2-6 | Bilbao, Spain| [April 28, 2019](https://pretalx.com/euroscipy-2019/) |  [CoC](https://www.euroscipy.org/2019/code_of_conduct.html)| |
 | [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 9-12 | San Jose, CA |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 | [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2019/) | Sep 11-13 | New York, NY |  |  | |
@@ -36,6 +38,7 @@
 |[PyConIE](https://pyconie18.python.ie/)| Oct 12-13 | Dublin, Ireland    | [Jul 31, 2019](http://python.ie/pycon-2019/call-proposals/) |[CoC](http://python.ie/pycon-2019/code-conduct/)  | |
 |[Space Apps NYC](https://spaceapps.nyc)| Oct 18-20 | New York, NY    |  |[CoC](https://drive.google.com/file/d/1tDvE1i8iMoGh1fOhMsfiWDzhl-NXCmyc/view?usp=drive_open)  | |
 |[AI World](https://aiworld.com) | Oct 23-25 | Boston, MA    |  | | |
+| [O'Reilly Tensorflow World](https://conferences.oreilly.com/tensorflow/tf-ca) | Oct 28-31 | Santa Clara, CA |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | Save 20% w/code UGWMLDS |
 | [ODSC West](https://odsc.com/california) | Oct 29 - Nov 1 | San Francisco, CA | [Jul 15, 2019](https://odsc.com/california/call-for-speakers-west) |[CoC](https://odsc.com/code-of-conduct)  | |
 | [PyData NYC](https://pydata.org/events.html) | November | New York, NY | [Aug 31](https://pydata.org/nyc2019/cfp/) |[CoC](https://pydata.org/code-of-conduct/)  | |
 | [Hopperx1](https://community.anitab.org/event/hopperx1-new-york-city/) | Nov 4 | New York, NY | [Jul 3, 2019](https://ssl.linklings.net/conferences/HopperNewYork/) |  | |
