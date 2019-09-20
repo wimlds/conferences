@@ -10,21 +10,6 @@
 
 | Event   | Date  | Location | CFP Deadline | Code of Conduct | Note |
 |----|----|----|----|----|----|
-| [Assoc for Computational Linguistics](http://www.acl2019.org/EN/index.xhtml) | Jul 28-August 2 | Florence, Italy | [March 4, 2019](http://www.acl2019.org/EN/call-for-papers.xhtml) |  | |
-| [KDD 2019](https://ai4good.org/feed2019/) | August 4-8 | Anchorage, AK | [May 31, 2019](https://www.kdd.org/kdd2019/calls) |  | |
-| [PyCon Africa](https://africa.pycon.org/speaking/) | August 6-10 | Accra, Ghana | June 1 |  | |
-| [ML for Healthcare](http://www.mlforhc.org) | August 8-10 | Ann Arbor, MI | Mars 29, 2019 |  | |
-| [Write/Speak/Code](https://www.writespeakcode.com) | August 16-18 | San Francisco, CA |  | [CoC](https://www.writespeakcode.com/index.html#code-of-conduct) | |
-| [StanCon](https://mc-stan.org/events/stancon2019Cambridge/) | Aug 20-23 | Cambridge, UK| [CFP Past except for Posters: August 15, 2019](https://mc-stan.org/events/stancon2019Cambridge/) |  | |
-| [AI 4 Finance](https://ai4.io/finance/) | August 21-22 | New York, NY |  |  [CoC](https://ai4.io/codeofconduct/)| |
-| [Halfstack](https://halfstackconf.com/newyork/) | Aug 23 | New York, NY | CFP Past | [CoC](https://halfstackconf.com/newyork/code-of-conduct/) | |
-| [ML Summit](https://events.withgoogle.com/mlsummit19/) | Aug 28 | Cambridge, MA | [Aug 28](https://docs.google.com/forms/d/e/1FAIpQLSe7P8tlfuEwloC9mUgmK8nM-3Naqhv1SIibOOXUjfOO--pdQQ/viewform) |  | |
-| [EuroSciPy](https://www.euroscipy.org/2019/) | Sep 2-6 | Bilbao, Spain| [April 28, 2019](https://pretalx.com/euroscipy-2019/) |  [CoC](https://www.euroscipy.org/2019/code_of_conduct.html)| |
-| [O'Reilly AI SF](https://conferences.oreilly.com/artificial-intelligence/ai-ca) | Sep 9-12 | San Jose, CA |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
-| [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2019/) | Sep 11-13 | New York, NY |  |  | |
-| [PostgresOpen](https://2019.postgresopen.org/callforpapers/) | Sep 11-14 | Orlando, FL | July 7 | [CoC](https://2019.postgresopen.org/policies/) | |
-| [PyCon UK](https://2019.pyconuk.org/) | Sep 13-17 | Cardiff, United Kingdom  | [June 7, 2019](https://2019.pyconuk.org/call-proposals/) | [CoC](https://2019.pyconuk.org/code-conduct/) | |
-| [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) | Sep 15 | New York, NY   | [June 17, 2019](https://data.bloomberglp.com/company/sites/2/2019/05/Data-For-Good-Exchange-2019-Call-for-Papers-Posters-Panels-Workshops.pdf) |  | |
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 23-26 | New York, NY | Jan-March 2019 | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 [PAPIs (Predictive Applications and APIs)](https://www.papis.io/global-2019) | October | Boston, MA |  |[CoC](https://www.papis.io/code-of-conduct)  | |
 | [TWIMLcon: AI Platforms](https://www.universe.com/events/twimlcon-ai-platforms-tickets-san-francisco-RB86HM) | Oct 1-2 | San Frnacisco, CA  | | | |
@@ -42,10 +27,10 @@
 |[AI World](https://aiworld.com) | Oct 23-25 | Boston, MA    |  | | |
 | [O'Reilly Tensorflow World](https://conferences.oreilly.com/tensorflow/tf-ca) | Oct 28-31 | Santa Clara, CA |  | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | Save 20% w/code UGWMLDS |
 | [ODSC West](https://odsc.com/california) | Oct 29 - Nov 1 | San Francisco, CA | [Jul 15, 2019](https://odsc.com/california/call-for-speakers-west) |[CoC](https://odsc.com/code-of-conduct)  | |
-| [PyData NYC](https://pydata.org/events.html) | November | New York, NY | [Aug 31](https://pydata.org/nyc2019/cfp/) |[CoC](https://pydata.org/code-of-conduct/)  | |
+| [PyData NYC](https://pydata.org/events.html) | November | New York, NY | [Nov 4-5](https://pydata.org/nyc2019/cfp/) |[CoC](https://pydata.org/code-of-conduct/)  | |
 | [Hopperx1](https://community.anitab.org/event/hopperx1-new-york-city/) | Nov 4 | New York, NY | [Jul 3, 2019](https://ssl.linklings.net/conferences/HopperNewYork/) |  | |
 | [O'Reilly Velocity NYC](https://conferences.oreilly.com/velocity/vl-eu) | Nov 4-7 | Berlin, Germany  | CFP Past |[CoC](https://www.oreilly.com/conferences/code-of-conduct.html)  | |
-| [MLConf 2019](https://mlconf.com) | Nov 8 | San Francisco, CA |  |[CoC (at the end of the page)](https://mlconf.com)  | |
+| [MLConf 2019](https://mlconf.com) | Nov 8 | San Francisco, CA |  |[CoC (at the end of the page)](https://mlconf.com)  | [18% discount](https://mlcsf19.eventbrite.com?discount=RS18) |
 | [AI4 Healthcare](https://ai4.io/healthcare/) | Nov 11-12 | New York, NY | [CFP](https://ai4.io/healthcare/callforspeakers/) |[CoC](https://ai4.io/codeofconduct/)  | |
 | [Scalable Computing](http://www.pdsw.org/index.shtml) | Nov 18 | Denver, CO | [Sep 1, 2019](http://www.pdsw.org/index.shtml#cfp) |  | |
 | [Natural Language, Dialog and Speech (NDS) Symposium](https://www.nyas.org/events/2019/natural-language-dialog-and-speech-nds-symposium/) | Nov 22 | New York, NY | Sep 16 | | |
