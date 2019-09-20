@@ -12,7 +12,7 @@
 |----|----|----|----|----|----|
 | [O'Reilly Strata NYC](https://conferences.oreilly.com/strata/strata-ny) | Sep 23-26 | New York, NY | Jan-March 2019 | [CoC](https://www.oreilly.com/conferences/code-of-conduct.html) | |
 [PAPIs (Predictive Applications and APIs)](https://www.papis.io/global-2019) | October | Boston, MA |  |[CoC](https://www.papis.io/code-of-conduct)  | |
-| [TWIMLcon: AI Platforms](https://www.universe.com/events/twimlcon-ai-platforms-tickets-san-francisco-RB86HM) | Oct 1-2 | San Frnacisco, CA  | | | |
+| [TWIMLcon: AI Platforms](https://www.universe.com/events/twimlcon-ai-platforms-tickets-san-francisco-RB86HM) | Oct 1-2 | San Francisco, CA  | | | |
 | [Grace Hopper Celebration](https://ghc.anitab.org/) | Oct 1-4 | Orlando, FL  | [Mars 6, 2019](https://ghc.anitab.org/2019-speakers/key-dates-deliverables/) |[CoC](https://ghc.anitab.org/code-of-conduct/)  | |
 | [AI Now 2019 Symposium](https://ainowinstitute.org/) | Oct 2 | New York, NY | CFP Past |  | |
 | [Women in Statistics and Data Science](https://ww2.amstat.org/meetings/wsds/2019/conferenceinfo.cfm) | October 3-5 | Seattle, WA | CFP Past |  | |
