@@ -38,7 +38,7 @@
 | [NeurIPS 2019](https://nips.cc) | Dec 8-14 | Vancouver, Canada |[May 23, 2019](https://nips.cc/Conferences/2019/CallForPapers)  |[CoC](https://nips.cc/public/CodeOfConduct)  | |
 | [Data Council](https://www.datacouncil.ai/call-for-proposals) | Annually in April, July, September, November | SF, Singapore, Barcelona, NYC | Annually 02/01, 06/01, 07/01, 09/01 |  | |
 | [Women Who Code](https://www.womenwhocode.com/events) | multiple dates | multiple locations, some TBD e.g. San Francisco, NYC | depends on the conference, see [here](https://docs.google.com/forms/d/e/1FAIpQLSfgSH98xsAB3c1wt3NiSIldxWKylryllGBzGv6AZox3mXHE-w/viewform) for details | | no travel stipend provided |
-| [Google Developers ML Summit '19](https://events.withgoogle.com/mlsummit19/) | Aug 28, Sep 18, Oct 2, Nov14 | Cambridge, MA, Seattle, Pittsburgh, Los Angeles | unclear, see the [CFP form](https://docs.google.com/forms/d/e/1FAIpQLSe7P8tlfuEwloC9mUgmK8nM-3Naqhv1SIibOOXUjfOO--pdQQ/viewform) for submission details | |  |
+| [Google Developers ML Summit '19](https://events.withgoogle.com/mlsummit19/) | Aug 28, Sep 18, Oct 2, Nov 14 | Cambridge, MA, Seattle, Pittsburgh, Los Angeles | unclear, see the [CFP form](https://docs.google.com/forms/d/e/1FAIpQLSe7P8tlfuEwloC9mUgmK8nM-3Naqhv1SIibOOXUjfOO--pdQQ/viewform) for submission details | |  |
 
 
 
@@ -49,12 +49,13 @@
 
 | Event   | Date  | Location | CFP Deadline | Code of Conduct | Note |
 |----|----|----|----|----|----|
-| [FAT Conference](https://fatconference.org/2020/) | Jan 27-30 | Barcelona | [Aug 15](https://fatconference.org/2020/callforpapers.html) |  [CoC](https://www.acm.org/about-acm/policy-against-harassment)| [Call for Craft](https://fatconference.org/2020/callforcraft.html) |
-| [O'Reilly Strata Data Conference](https://conferences.oreilly.com/strata/strata-ca) | Mar 15-18 | San Jose, CA | [Sep 5, 2019](https://conferences.oreilly.com/strata/strata-ca/public/cfp/749) |  [CoC](https://www.oreilly.com/conferences/code-of-conduct.html)| |
-| [GraphConnect 2020](https://graphconnect.com/) | Apr 20-22 | New York, NY | [Nov 1, 2019](https://www.papercall.io/graphconnect2020) |  [CoC](https://www.oreilly.com/conferences/code-of-conduct.html)| |
-| [Ai4 Cybersecurity Conference](https://ai4.io/cybersecurity/) | Apr 30 | New York, NY |  |  [CoC](https://ai4.io/codeofconduct/)| |
-| [O'Reilly Software Architecture Conference](https://bigdata.cgiar.org/hyderabad-2019/) | February 22–26, 2020 | New York, NY | Aug 20, 2019 |  [CoC](https://www.oreilly.com/conferences/code-of-conduct.html)| |
-| [Women in Analytics Conference (WIA)](https://womeninanalytics.com) | June 3-5 | Columbus, OH |[Jan 31st, 2020](https://womeninanalytics.com/call-for-speakers/) | [CoC](https://womeninanalytics.com/about/code-of-conduct/) | |
+| [FAT Conference](https://fatconference.org/2020/) | Jan 27-30 | Barcelona, Spain | [Aug 15](https://fatconference.org/2020/callforpapers.html) |  [CoC](https://www.acm.org/about-acm/policy-against-harassment)| [Call for Craft](https://fatconference.org/2020/callforcraft.html) |
+| [O'Reilly Strata Data Conference](https://conferences.oreilly.com/strata/strata-ca) | Mar 15-18 | San Jose, CA, USA | [Sep 5, 2019](https://conferences.oreilly.com/strata/strata-ca/public/cfp/749) |  [CoC](https://www.oreilly.com/conferences/code-of-conduct.html)| |
+| [GraphConnect 2020](https://graphconnect.com/) | Apr 20-22 | New York, NY, USA | [Nov 1, 2019](https://www.papercall.io/graphconnect2020) |  [CoC](https://www.oreilly.com/conferences/code-of-conduct.html)| |
+| [Ai4 Cybersecurity Conference](https://ai4.io/cybersecurity/) | Apr 30 | New York, NY, USA |  |  [CoC](https://ai4.io/codeofconduct/)| |
+| [O'Reilly Software Architecture Conference](https://bigdata.cgiar.org/hyderabad-2019/) | February 22–26, 2020 | New York, NY, USA | Aug 20, 2019 |  [CoC](https://www.oreilly.com/conferences/code-of-conduct.html)| |
+| [SysML](https://systemsandml.org/) | Mar 2-4, 2020 | Austin, TX, USA | [Sept 9, 2019](https://systemsandml.org/Conferences/2020/CallForPapers) | [CoC](https://systemsandml.org/public/CodeOfConduct) | |
+| [Women in Analytics Conference (WIA)](https://womeninanalytics.com) | June 3-5 | Columbus, OH, USA |[Jan 31, 2020](https://womeninanalytics.com/call-for-speakers/) | [CoC](https://womeninanalytics.com/about/code-of-conduct/) | |
 
 
 ---
