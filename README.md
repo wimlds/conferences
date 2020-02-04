@@ -56,6 +56,14 @@
 
 ---
 
+## Additional conference lists
+
+* [KDD List of International Conferences](https://www.kdnuggets.com/meetings/)
+* [Women in Machine Learning Workshop](http://wimlworkshop.org/events/)
+* [PyData conferences](https://pydata.org/events.html)
+
+---
+
 # Conference Travel Funding
 
 There are some options for funding to attend conferences if you are not able to secure funding or afford the travel on your own.
@@ -66,9 +74,3 @@ There are some options for funding to attend conferences if you are not able to 
 - O'Reilly offers diversity scholarhips for [three of their conferences](https://www.oreilly.com/conferences/diversity-application.csp)
 - If you have any other suggestons, please let us know by opening an issue or sending an email to info@wimlds.org!
 
-
-## Additional conference lists
-
-* [KDD List of International Conferences](https://www.kdnuggets.com/meetings/)
-* [Women in Machine Learning Workshop](http://wimlworkshop.org/events/)
-* [PyData conferences](https://pydata.org/events.html)
