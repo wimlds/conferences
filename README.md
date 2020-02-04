@@ -37,10 +37,6 @@
 | [Google Developers ML Summit '19](https://events.withgoogle.com/mlsummit19/) | Aug 28, Sep 18, Oct 2, Nov 14 | Cambridge, MA, Seattle, Pittsburgh, Los Angeles | unclear, see the [CFP form](https://docs.google.com/forms/d/e/1FAIpQLSe7P8tlfuEwloC9mUgmK8nM-3Naqhv1SIibOOXUjfOO--pdQQ/viewform) for submission details | |  |
 
 
-
-
----
-
 ## 2020
 
 | Event   | Date  | Location | CFP Deadline | Code of Conduct | Note |
@@ -54,15 +50,12 @@
 | [Women in Analytics Conference (WIA)](https://womeninanalytics.com) | June 3-5 | Columbus, OH, USA |[Jan 31, 2020](https://womeninanalytics.com/call-for-speakers/) | [CoC](https://womeninanalytics.com/about/code-of-conduct/) | |
 
 
----
-
 ## Additional conference lists
 
 * [KDD List of International Conferences](https://www.kdnuggets.com/meetings/)
 * [Women in Machine Learning Workshop](http://wimlworkshop.org/events/)
 * [PyData conferences](https://pydata.org/events.html)
 
----
 
 # Conference Travel Funding
 
