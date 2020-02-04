@@ -1,10 +1,6 @@
 # List of Conferences
 **topics:**  data science, machine learning, python, Rstats, technology
 
-* [KDD List of International Conferences](https://www.kdnuggets.com/meetings/)
-* [Women in Machine Learning Workshop](http://wimlworkshop.org/events/)
-* [PyData conferences](https://pydata.org/events.html)
-
 
 ## 2019
 
@@ -69,3 +65,10 @@ There are some options for funding to attend conferences if you are not able to 
 - [Google Travel and Conference Grants](https://buildyourfuture.withgoogle.com/scholarships/google-travel-and-conference-grants/#!?detail-content-tabby_activeEl=overview)
 - O'Reilly offers diversity scholarhips for [three of their conferences](https://www.oreilly.com/conferences/diversity-application.csp)
 - If you have any other suggestons, please let us know by opening an issue or sending an email to info@wimlds.org!
+
+
+## Additional conference lists
+
+* [KDD List of International Conferences](https://www.kdnuggets.com/meetings/)
+* [Women in Machine Learning Workshop](http://wimlworkshop.org/events/)
+* [PyData conferences](https://pydata.org/events.html)
